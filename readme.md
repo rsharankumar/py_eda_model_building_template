@@ -1,5 +1,7 @@
-This is a code for the Data Science Challenge
+This code wassubmitted for a Data Science Challenge
 <br />
+<br />
+About Dataset:
 <br />
 The file ​cats.csv​ contains data with details of 300 different cats. These data should be used to create a predictive model that can be used to predict the life expectancy, in years, of any cat.
 <br />
