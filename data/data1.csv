@@ -1,0 +1,638 @@
+_id_,timeTaken,nps,County,State,Full Part Time,Gender,Ethnic Group Description,Date of Birth,age,age_group,Payment Frequency,Contract Type,concat,Prediction,recommendation
+58e7df1bd7aff30100ae18ba,98515108,1,Little River,AR,Part Time,Female,American Ethnicities,2/03/1988,30,1,2-Weekly,Permanent,Little River_AR,10,0
+58e79957d7aff30100ae18ab,1344062,1,Navajo,AZ,Full Time,Male,White,5/11/1992,26,1,Monthly,Permanent,Navajo_AZ,43,0
+58e2df98d7aff30100ae1812,2269255,1,,DE,Full Time,Female,White,15/08/1990,28,1,Monthly,Contractor,_DE,99,1
+58e2b035d7aff30100ae17fd,851441,1,Terrell,GA,Full Time,Female,Black or Black British,15/07/1988,30,1,Monthly,Permanent,Terrell_GA,57,1
+58e768e4a4f5930100cea7f9,1947024,1,Murray,GA,Full Time,Male,Mixed,5/04/1982,36,2,Monthly,Contractor,Murray_GA,96,1
+58e40972a4f5930100cea7b5,1475194,1,Ringgold,IA,Full Time,Male,Mixed,30/09/1988,30,1,Monthly,Contractor,Ringgold_IA,60,1
+58e40ed1d7aff30100ae185f,1076559,1,Montgomery,IL,Full Time,Female,White,27/05/1992,26,1,Monthly,Permanent,Montgomery_IL,42,0
+58e28feea4f5930100cea747,749686,1,Christian,KY,Part Time,Female,Not Divulged,17/08/1998,20,1,Monthly,Permanent,Christian_KY,37,0
+58e2ac28a4f5930100cea75c,1490276,1,Edmonson,KY,Part Time,Male,Not Divulged,3/11/1994,24,1,Monthly,Temporary,Edmonson_KY,41,0
+58e2a6a0a4f5930100cea758,881744,1,York,ME,Part Time,Female,Not Divulged,17/12/1987,31,2,Monthly,Permanent,York_ME,11,0
+58e2b308a4f5930100cea760,2327482,1,Franklin,MO,Part Time,Female,Not Divulged,2/08/1998,20,1,Monthly,Temporary,Franklin_MO,26,0
+58e2b019d7aff30100ae17fc,2099483,1,Guilford,NC,Full Time,Female,Not Divulged,8/05/1991,27,1,Monthly,Permanent,Guilford_NC,86,1
+58e4d9b7a4f5930100cea7c1,1319274,1,York,NE,Part Time,Female,Not Divulged,15/05/1996,22,1,Monthly,Permanent,York_NE,75,1
+58e79f60d7aff30100ae18ad,1459212,1,Butler,NE,Full Time,Male,Not Divulged,4/06/1988,30,1,Monthly,Temporary,Butler_NE,78,1
+58e3d1eed7aff30100ae1854,875010,1,Jefferson,NY,Part Time,Female,White,13/07/1983,35,2,Monthly,Permanent,Jefferson_NY,88,1
+58e33d35d7aff30100ae1814,849809,1,Comanche,OK,Part Time,Male,Not Divulged,7/12/1990,28,1,Monthly,Contractor,Comanche_OK,10,0
+58e3fdc7d7aff30100ae185a,2332144,1,Texas,OK,Full Time,Male,White,22/12/1991,27,1,Monthly,Contractor,Texas_OK,62,1
+58e557fcd7aff30100ae187c,3527643,1,Garfield,OK,Part Time,Female,Not Divulged,11/02/1993,25,1,Monthly,Permanent,Garfield_OK,10,0
+58e4bb8aa4f5930100cea7b9,2231218,1,Jefferson,PA,Part Time,Female,Not Divulged,23/12/1987,31,2,Monthly,Permanent,Jefferson_PA,55,1
+58e633f2a4f5930100cea7e0,8870631,1,Wise,TX,Part Time,Female,Not Divulged,18/08/1973,45,2,Monthly,Fixed Term,Wise_TX,2,0
+58e6856aa4f5930100cea7f1,18884036,1,Iowa,WI,Part Time,Female,Not Divulged,10/08/1987,31,2,Monthly,Permanent,Iowa_WI,36,0
+58e2b94bd7aff30100ae1806,3342380,2,Kenai Peninsula,AK,Full Time,Female,Not Divulged,8/04/1997,21,1,Monthly,Fixed Term,Kenai Peninsula_AK,8,0
+58e33c43a4f5930100cea76e,1379841,2,Pike,AR,Full Time,Female,Not Divulged,11/01/1989,29,1,Monthly,Permanent,Pike_AR,60,1
+58e63cc6d7aff30100ae188c,987620,2,Izard,AR,Full Time,Male,Not Divulged,27/02/1994,24,1,Monthly,Permanent,Izard_AR,53,1
+58e4e1ffa4f5930100cea7c4,2153619,2,Middlesex,CT,Part Time,Male,Not Divulged,19/08/1994,24,1,Monthly,Fixed Term,Middlesex_CT,43,0
+58e3d933a4f5930100cea7ac,1292993,2,Rock Island,IL,Full Time,Female,Not Divulged,21/12/1993,25,1,Monthly,Permanent,Rock Island_IL,54,1
+58e3b097d7aff30100ae1848,1247354,2,Washington,ME,Part Time,Female,Not Divulged,25/01/1992,26,1,Monthly,Permanent,Washington_ME,10,0
+58e34aa6d7aff30100ae1817,1432046,2,Saint Clair,MI,Full Time,Male,Not Divulged,25/07/1984,34,2,Monthly,Permanent,Saint Clair_MI,75,1
+58e7924dd7aff30100ae18a9,1635576,2,Gratiot,MI,Full Time,Female,Not Divulged,9/03/1988,30,1,Monthly,Permanent,Gratiot_MI,78,1
+58e7ba01d7aff30100ae18b3,1435410,2,Houghton,MI,Part Time,Male,Not Divulged,23/08/1991,27,1,Monthly,Permanent,Houghton_MI,89,1
+58e34a36a4f5930100cea76f,951649,2,Saint Louis,MN,Part Time,Male,Not Divulged,22/09/1991,27,1,Monthly,Permanent,Saint Louis_MN,29,0
+58e3c64cd7aff30100ae1850,771215,2,Nobles,MN,Part Time,Female,Not Divulged,9/03/1990,28,1,Monthly,Permanent,Nobles_MN,92,1
+58e3ca5ca4f5930100cea7a4,955635,2,Camden,MO,Full Time,Male,Not Divulged,28/07/1994,24,1,Monthly,Permanent,Camden_MO,89,1
+58e3b1f9d7aff30100ae1849,951222,2,Brunswick,NC,Part Time,Female,Not Divulged,17/08/1996,22,1,Monthly,Permanent,Brunswick_NC,89,1
+58e6404fd7aff30100ae188f,2142643,2,Hudson,NJ,Part Time,Female,Not Divulged,19/10/1997,21,1,Monthly,Permanent,Hudson_NJ,32,0
+58e684f9d7aff30100ae189a,1479407,2,Logan,OH,Part Time,Female,Not Divulged,1/05/1993,25,1,Monthly,Permanent,Logan_OH,28,0
+58e2b4eaa4f5930100cea763,1694795,2,Dallas,TX,Part Time,Female,Not Divulged,10/01/1996,22,1,Monthly,Permanent,Dallas_TX,23,0
+58e2a592a4f5930100cea757,757788,3,Houston,AL,Full Time,Female,Not Divulged,17/02/1984,34,2,Monthly,Permanent,Houston_AL,75,1
+58e3c24cd7aff30100ae184f,15996619,3,Bradley,AR,Part Time,Female,Not Divulged,1/05/1992,26,1,Monthly,Permanent,Bradley_AR,98,1
+58e7ccc3d7aff30100ae18b5,2503130,3,Baxter,AR,Full Time,Male,Not Divulged,19/02/1991,27,1,Monthly,Permanent,Baxter_AR,99,1
+58e51f62d7aff30100ae1878,1143299,3,Weld,CO,Part Time,Male,Not Divulged,29/10/1993,25,1,Monthly,Permanent,Weld_CO,87,1
+58e53a6ea4f5930100cea7d4,1355790,3,Pueblo,CO,Part Time,Female,Not Divulged,9/09/1995,23,1,Monthly,Permanent,Pueblo_CO,66,1
+58e78928d7aff30100ae18a7,1665558,3,New London,CT,Full Time,Female,Not Divulged,4/12/1994,24,1,Monthly,Permanent,New London_CT,77,1
+58e29da6d7aff30100ae17f0,1139303,3,Walton,FL,Part Time,Male,White,10/01/1989,29,1,Monthly,Permanent,Walton_FL,84,1
+58e4b794d7aff30100ae1863,1376693,3,Brevard,FL,Part Time,Male,Not Divulged,18/03/1994,24,1,Monthly,Permanent,Brevard_FL,98,1
+58e2c1f8d7aff30100ae1809,1671024,3,Habersham,GA,Full Time,Female,White,25/09/1954,64,2,Monthly,Permanent,Habersham_GA,33,0
+58e2dcd5d7aff30100ae1811,1015342,3,Shelby,IA,Part Time,Female,White,10/09/1967,51,2,Monthly,Fixed Term,Shelby_IA,57,1
+58e4cd44d7aff30100ae1868,1272078,3,Shelby,IA,Full Time,Male,White,2/02/1989,29,1,Monthly,Fixed Term,Shelby_IA,57,1
+58e29a34d7aff30100ae17ee,2199463,3,Carroll,IL,Part Time,Female,White,29/08/1969,49,2,Monthly,Fixed Term,Carroll_IL,42,0
+58e2aa73a4f5930100cea75a,3177238,3,Posey,IN,Part Time,Female,White,28/08/1976,42,2,Monthly,Fixed Term,Posey_IN,71,1
+58e5067ed7aff30100ae1874,1089992,3,Whitley,IN,Part Time,Female,White,18/05/1966,52,2,Monthly,Fixed Term,Whitley_IN,4,0
+58e7c248d7aff30100ae18b4,1082084,3,Meade,KY,Full Time,Male,White,1/12/1983,35,2,Monthly,Fixed Term,Meade_KY,58,1
+58e50382d7aff30100ae1873,1675061,3,Iberia,LA,Full Time,Female,Other,16/06/1971,47,2,Monthly,Fixed Term,Iberia_LA,23,0
+58e39533d7aff30100ae183b,743115,3,Wicomico,MD,Full Time,Male,White,6/05/1970,48,2,Monthly,Fixed Term,Wicomico_MD,12,0
+58e64e5ba4f5930100cea7e3,1143560,3,Emmet,MI,Full Time,Female,White,31/12/1986,32,2,Monthly,Fixed Term,Emmet_MI,85,1
+58e63f54d7aff30100ae188e,1026403,3,Dakota,MN,Full Time,Female,White,26/10/1980,38,2,Monthly,Fixed Term,Dakota_MN,66,1
+58e29f58a4f5930100cea755,2239033,3,Anson,NC,Part Time,Male,Black or Black British,26/07/1990,28,1,Monthly,Fixed Term,Anson_NC,61,1
+58e4e1ada4f5930100cea7c3,7072784,3,Macon,NC,Full Time,Male,White,29/10/1987,31,2,Monthly,Fixed Term,Macon_NC,64,1
+58e2bfa5d7aff30100ae1808,4384336,3,Thurston,NE,Full Time,Male,White,23/07/1991,27,1,Monthly,Fixed Term,Thurston_NE,52,1
+58e6800aa4f5930100cea7ee,1377832,3,Hillsborough,NH,Part Time,Female,White,16/12/1975,43,2,Monthly,Fixed Term,Hillsborough_NH,94,1
+58e34f7ba4f5930100cea773,1813834,3,Montgomery,NY,Full Time,Male,Chinese,2/11/1975,43,2,Monthly,Fixed Term,Montgomery_NY,52,1
+58e3a75cd7aff30100ae1842,994847,3,Allegany,NY,Full Time,Female,White,3/03/1990,28,1,Monthly,Fixed Term,Allegany_NY,47,0
+58e5315bd7aff30100ae187b,3031305,3,Livingston,NY,Full Time,Female,White,11/02/1992,26,1,Monthly,Fixed Term,Livingston_NY,85,1
+58e2d32fa4f5930100cea76d,833945,3,Pickaway,OH,Full Time,Male,White,20/06/1983,35,2,Monthly,Permanent,Pickaway_OH,92,1
+58e3fe94d7aff30100ae185c,909713,3,Lawrence,OH,Full Time,Male,White,26/07/1971,47,2,Monthly,Fixed Term,Lawrence_OH,17,0
+58e2b9eaa4f5930100cea766,1548516,3,Logan,OK,Full Time,Female,White,30/06/1984,34,2,Monthly,Permanent,Logan_OK,39,0
+58e64f57a4f5930100cea7e5,1111357,3,Cherokee,OK,Full Time,Female,White,21/04/1987,31,2,Monthly,Fixed Term,Cherokee_OK,93,1
+58e79eeca4f5930100cea801,1413739,3,Bryan,OK,Full Time,Male,White,16/07/1987,31,2,Monthly,Permanent,Bryan_OK,76,1
+58e294dca4f5930100cea74c,1789607,3,Clinton,PA,Part Time,Female,Chinese,17/09/1992,26,1,Monthly,Fixed Term,Clinton_PA,75,1
+58e29715a4f5930100cea74f,2596545,3,Butler,PA,Full Time,Female,White,3/07/1992,26,1,Monthly,Permanent,Butler_PA,52,1
+58e2a281d7aff30100ae17f3,1202579,3,Monroe,PA,Full Time,Female,White,28/09/1991,27,1,Monthly,Fixed Term,Monroe_PA,27,0
+58e33620d7aff30100ae1813,1093204,3,Westmoreland,PA,Part Time,Male,White,23/06/1989,29,1,Monthly,Fixed Term,Westmoreland_PA,47,0
+58e679c5d7aff30100ae1899,1729134,3,Lancaster,PA,Full Time,Female,White,12/01/1990,28,1,Monthly,Fixed Term,Lancaster_PA,100,1
+58e77565d7aff30100ae18a5,1208959,3,Allegheny,PA,Full Time,Female,White,1/10/1992,26,1,Monthly,Fixed Term,Allegheny_PA,72,1
+58e40517a4f5930100cea7b3,1197267,3,Hickman,TN,Part Time,Male,White,16/05/1991,27,1,Monthly,Fixed Term,Hickman_TN,26,0
+58e39ddbd7aff30100ae183e,1020246,3,Gaines,TX,Full Time,Male,White,23/01/1991,27,1,Monthly,Fixed Term,Gaines_TX,72,1
+58e7c1eca4f5930100cea80b,1172662,3,Tarrant,TX,Full Time,Female,White,1/03/1991,27,1,Monthly,Fixed Term,Tarrant_TX,72,1
+58e52502a4f5930100cea7d0,1683985,3,Prince William,VA,Full Time,Female,Other,17/10/1988,30,1,Monthly,Fixed Term,Prince William_VA,29,0
+58e60625d7aff30100ae187d,983803,3,Addison,VT,Full Time,Female,White,31/08/1990,28,1,Monthly,Permanent,Addison_VT,67,1
+58e29af4d7aff30100ae17ef,1121730,3,Wayne,WV,Full Time,Female,White,2/09/1989,29,1,Monthly,Permanent,Wayne_WV,43,0
+58e2abb9a4f5930100cea75b,954600,4,Geneva,AL,Full Time,Male,White,14/05/1990,28,1,Monthly,Fixed Term,Geneva_AL,47,0
+58e38fd4a4f5930100cea78f,961303,4,Saint Francis,AR,Part Time,Female,White,1/09/1986,32,2,Monthly,Fixed Term,Saint Francis_AR,84,1
+58e51fb5a4f5930100cea7cd,1021156,4,Clark,AR,Full Time,Male,Asian or Asian British,19/09/1977,41,2,Monthly,Fixed Term,Clark_AR,49,0
+58e662eda4f5930100cea7ea,3025637,4,San Mateo,CA,Full Time,Female,White,23/02/1965,53,2,Monthly,Permanent,San Mateo_CA,86,1
+58e356c1d7aff30100ae181c,1263547,4,Arapahoe,CO,Full Time,Female,Black or Black British,18/05/1983,35,2,Monthly,Permanent,Arapahoe_CO,63,1
+58e38546a4f5930100cea78b,52862380,4,Hernando,FL,Full Time,Female,White,9/04/1993,25,1,Monthly,Permanent,Hernando_FL,58,1
+58e3d5c9a4f5930100cea7aa,1096959,4,Miami-Dade,FL,Full Time,Female,Other,8/10/1981,37,2,Monthly,Fixed Term,Miami-Dade_FL,19,0
+58e4f59ad7aff30100ae186e,747562,4,Brevard,FL,Full Time,Female,Black or Black British,17/06/1987,31,2,Monthly,Fixed Term,Brevard_FL,98,1
+58e56efea4f5930100cea7d5,1444109,4,Sarasota,FL,Full Time,Male,Chinese,9/09/1988,30,1,Monthly,Permanent,Sarasota_FL,21,0
+58e4102fd7aff30100ae1860,1227910,4,Chatham,GA,Full Time,Female,White,1/03/1993,25,1,Monthly,Permanent,Chatham_GA,60,1
+58e7735ba4f5930100cea7fb,4487611,4,Walton,GA,Full Time,Male,White,27/02/1990,28,1,Monthly,Permanent,Walton_GA,51,1
+58e3dcfad7aff30100ae1857,885686,4,Clayton,IA,Full Time,Male,White,13/12/1990,28,1,Monthly,Fixed Term,Clayton_IA,80,1
+58e68676d7aff30100ae189b,5650575,4,Osceola,IA,Part Time,Male,White,24/10/1993,25,1,Monthly,Fixed Term,Osceola_IA,94,1
+58e40785a4f5930100cea7b4,732829,4,Macoupin,IL,Full Time,Female,Chinese,3/09/1985,33,2,Monthly,Fixed Term,Macoupin_IL,87,1
+58e4e875a4f5930100cea7c5,2277784,4,Cumberland,ME,Part Time,Female,White,27/12/1991,27,1,Monthly,Fixed Term,Cumberland_ME,92,1
+58e64ee7a4f5930100cea7e4,2371379,4,Gratiot,MI,Part Time,Male,White,6/01/1994,24,1,Monthly,Fixed Term,Gratiot_MI,78,1
+58e2cd0bd7aff30100ae180e,2067369,4,Polk,MN,Part Time,Female,White,5/02/1996,22,1,Monthly,Fixed Term,Polk_MN,15,0
+58e613d3d7aff30100ae1881,879248,4,Silver Bow,MT,Full Time,Male,White,2/01/1996,22,1,Monthly,Fixed Term,Silver Bow_MT,86,1
+58e35e9dd7aff30100ae1820,847562,4,Dare,NC,Full Time,Female,White,1/09/1966,52,2,Monthly,Fixed Term,Dare_NC,84,1
+58e7dd77d7aff30100ae18b7,1373792,4,Dawson,NE,Part Time,Male,American Ethnicities,23/05/1993,25,1,Monthly,Permanent,Dawson_NE,90,1
+58e51285a4f5930100cea7cb,84035715,4,Strafford,NH,Part Time,Male,Not Divulged,18/10/1990,28,1,Monthly,Fixed Term,Strafford_NH,57,1
+58e34300d7aff30100ae1815,1137233,4,Somerset,NJ,Full Time,Male,White,25/05/1987,31,2,Monthly,Fixed Term,Somerset_NJ,60,1
+58e6602bd7aff30100ae1896,1699375,4,Cumberland,NJ,Full Time,Male,White,25/02/1992,26,1,Monthly,Fixed Term,Cumberland_NJ,18,0
+58e2c46fa4f5930100cea76a,964728,4,Orange,NY,Part Time,Female,White,21/10/1990,28,1,Monthly,Fixed Term,Orange_NY,10,0
+58e36839a4f5930100cea783,1329883,4,Onondaga,NY,Full Time,Male,White,9/10/1990,28,1,Monthly,Fixed Term,Onondaga_NY,56,1
+58e50d10a4f5930100cea7ca,5040928,4,Cuyahoga,OH,Part Time,Female,Mixed,31/10/1992,26,1,Monthly,Fixed Term,Cuyahoga_OH,82,1
+58e6715ca4f5930100cea7ec,976892,4,Muskingum,OH,Part Time,Female,White,20/03/1981,37,2,Monthly,Fixed Term,Muskingum_OH,77,1
+58e38dacd7aff30100ae1835,1059681,4,Lane,OR,Full Time,Male,White,11/01/1993,25,1,Monthly,Permanent,Lane_OR,70,1
+58e29b17a4f5930100cea751,1346599,4,Mifflin,PA,Full Time,Male,Black or Black British,21/04/1987,31,2,Monthly,Fixed Term,Mifflin_PA,47,0
+58e2ab5dd7aff30100ae17f7,1293539,4,Butler,PA,Full Time,Male,White,22/02/1983,35,2,Monthly,Fixed Term,Butler_PA,52,1
+58e36222d7aff30100ae1822,3906208,4,Perry,PA,Full Time,Female,White,23/10/1976,42,2,Monthly,Permanent,Perry_PA,30,0
+58e36ba7d7aff30100ae1828,1267906,4,Cambria,PA,Part Time,Female,Other,17/01/1990,28,1,Monthly,Permanent,Cambria_PA,61,1
+58e37308d7aff30100ae182c,3911473,4,Erie,PA,Full Time,Male,White,27/08/1983,35,2,Monthly,Temporary,Erie_PA,100,1
+58e3baa6d7aff30100ae184c,78008356,4,Schuylkill,PA,Full Time,Male,White,30/11/1992,26,1,Monthly,Fixed Term,Schuylkill_PA,66,1
+58e4c496d7aff30100ae1865,1312220,4,Allegheny,PA,Full Time,Male,White,13/04/1988,30,1,Monthly,Permanent,Allegheny_PA,72,1
+58e4dd01d7aff30100ae186b,1321550,4,Columbia,PA,Part Time,Male,White,16/11/1994,24,1,Monthly,Permanent,Columbia_PA,17,0
+58e51c38a4f5930100cea7cc,1755696,4,Washington,PA,Full Time,Male,White,5/08/1996,22,1,Monthly,Permanent,Washington_PA,12,0
+58e690dba4f5930100cea7f2,1300351,4,Schuylkill,PA,Full Time,Female,White,8/09/1987,31,2,Monthly,Permanent,Schuylkill_PA,66,1
+58e7b136a4f5930100cea806,1708422,4,Allegheny,PA,Full Time,Female,White,30/06/1992,26,1,Monthly,Permanent,Allegheny_PA,72,1
+58e4ca5ed7aff30100ae1866,76333893,4,White,TN,Full Time,Male,Black or Black British,22/02/1985,33,2,Monthly,Fixed Term,White_TN,41,0
+58e7b725a4f5930100cea809,1954184,4,Roane,TN,Full Time,Male,White,2/06/1982,36,2,Monthly,Fixed Term,Roane_TN,93,1
+58e2b2ccd7aff30100ae17ff,1447305,4,Freestone,TX,Full Time,Female,White,24/04/1988,30,1,Monthly,Fixed Term,Freestone_TX,58,1
+58e629d3a4f5930100cea7de,1780777,4,Harris,TX,Full Time,Female,White,27/12/1984,34,2,Monthly,Fixed Term,Harris_TX,65,1
+58e35904a4f5930100cea777,1245843,4,Southampton,VA,Full Time,Male,Chinese,8/06/1989,29,1,Monthly,Fixed Term,Southampton_VA,10,0
+58e5089ea4f5930100cea7c9,1543445,4,Marathon,WI,Part Time,Female,Black or Black British,8/06/1992,26,1,Monthly,Fixed Term,Marathon_WI,55,1
+58e37339a4f5930100cea786,1089469,4,Lincoln,WY,Full Time,Male,White,26/11/1991,27,1,Monthly,Fixed Term,Lincoln_WY,28,0
+58e2c0e4a4f5930100cea768,1399290,5,Riverside,CA,Part Time,Female,White,14/01/1988,30,1,Monthly,Fixed Term,Riverside_CA,36,0
+58e4aad0a4f5930100cea7b8,879138,5,Sierra,CA,Full Time,Male,Black or Black British,22/02/1988,30,1,Monthly,Fixed Term,Sierra_CA,38,0
+58e79071d7aff30100ae18a8,1667594,5,San Luis Obispo,CA,Part Time,Male,White,28/04/1996,22,1,Monthly,Fixed Term,San Luis Obispo_CA,20,0
+58e3a2cbd7aff30100ae1841,4093097,5,Kit Carson,CO,Full Time,Female,White,1/08/1991,27,1,Monthly,Temporary,Kit Carson_CO,15,0
+58e2985ad7aff30100ae17ec,920614,5,Sussex,DE,Full Time,Male,White,19/06/1989,29,1,Monthly,Fixed Term,Sussex_DE,99,1
+58e615b4d7aff30100ae1882,1156109,5,Orange,FL,Full Time,Male,White,9/06/1976,42,2,Monthly,Fixed Term,Orange_FL,94,1
+58e2b508a4f5930100cea764,1388487,5,Jasper,IA,Part Time,Female,Black or Black British,16/12/1985,33,2,Monthly,Fixed Term,Jasper_IA,20,0
+58e760a2a4f5930100cea7f6,1759270,5,Delaware,IN,Part Time,Male,Black or Black British,1/03/1993,25,1,Monthly,Fixed Term,Delaware_IN,4,0
+58e39cc0a4f5930100cea793,1153877,5,Sedgwick,KS,Full Time,Male,White,2/11/1992,26,1,Monthly,Fixed Term,Sedgwick_KS,38,0
+58e6ada1a4f5930100cea7f4,931521,5,Pointe Coupee,LA,Part Time,Male,White,6/03/1995,23,1,Monthly,Fixed Term,Pointe Coupee_LA,69,1
+58e29d1ba4f5930100cea752,3193425,5,Norfolk,MA,Full Time,Female,White,17/10/1989,29,1,Monthly,Fixed Term,Norfolk_MA,37,0
+58e34b60a4f5930100cea770,1551488,5,Middlesex,MA,Part Time,Female,White,5/12/1995,23,1,Monthly,Fixed Term,Middlesex_MA,36,0
+58e39a04d7aff30100ae183d,1412403,5,Calvert,MD,Full Time,Male,White,3/07/1989,29,1,Monthly,Fixed Term,Calvert_MD,39,0
+58e3c563a4f5930100cea7a3,1912914,5,Allegany,MD,Full Time,Female,White,17/12/1993,25,1,Monthly,Permanent,Allegany_MD,2,0
+58e37ab4a4f5930100cea78a,5263509,5,Oxford,ME,Full Time,Male,Chinese,26/11/1990,28,1,Monthly,Permanent,Oxford_ME,22,0
+58e3be04a4f5930100cea7a1,1029942,5,Penobscot,ME,Full Time,Male,White,3/11/1990,28,1,Monthly,Permanent,Penobscot_ME,27,0
+58e76d67a4f5930100cea7fa,1210773,5,Aroostook,ME,Full Time,Female,White,27/03/1994,24,1,Monthly,Permanent,Aroostook_ME,3,0
+58e500cfd7aff30100ae1872,1117236,5,Bay,MI,Full Time,Female,White,3/09/1996,22,1,Monthly,Permanent,Bay_MI,58,1
+58e519fdd7aff30100ae1877,1123670,5,Oakland,MI,Full Time,Female,White,23/07/1986,32,2,Monthly,Permanent,Oakland_MI,68,1
+58e6341cd7aff30100ae1886,2482714,5,Livingston,MI,Full Time,Male,White,17/06/1993,25,1,Monthly,Permanent,Livingston_MI,3,0
+58e7ac97a4f5930100cea804,1187307,5,Cheboygan,MI,Full Time,Female,White,23/06/1986,32,2,Monthly,Permanent,Cheboygan_MI,46,0
+58e3734dd7aff30100ae182d,1126456,5,Martin,MN,Part Time,Female,White,15/03/1994,24,1,Monthly,Agency Temp,Martin_MN,46,0
+58e3f894d7aff30100ae1859,1252161,5,Lake,MN,Part Time,Female,Asian or Asian British,27/12/1991,27,1,Monthly,Permanent,Lake_MN,54,1
+58e680dea4f5930100cea7ef,1407510,5,Red Lake,MN,Part Time,Female,White,12/09/1995,23,1,Monthly,Contractor,Red Lake_MN,20,0
+58e65e62a4f5930100cea7e8,913686,5,Saint Louis,MO,Part Time,Female,White,25/01/1980,38,2,Monthly,Permanent,Saint Louis_MO,58,1
+58e3a877a4f5930100cea797,3123633,5,Hinds,MS,Full Time,Male,White,16/08/1988,30,1,Monthly,Permanent,Hinds_MS,67,1
+58e28ffcd7aff30100ae17e6,1254601,5,Currituck,NC,Full Time,Male,White,11/03/1991,27,1,Monthly,Fixed Term,Currituck_NC,52,1
+58e3a924a4f5930100cea798,5841498,5,Henderson,NC,Full Time,Female,White,8/11/1990,28,1,Monthly,Permanent,Henderson_NC,68,1
+58e52e5bd7aff30100ae187a,12065811,5,Harnett,NC,Part Time,Female,White,14/02/1989,29,1,Monthly,Permanent,Harnett_NC,63,1
+58e619a1a4f5930100cea7da,1746739,5,Cleveland,NC,Part Time,Female,White,28/10/1991,27,1,Monthly,Fixed Term,Cleveland_NC,75,1
+58e65fcda4f5930100cea7e9,1239214,5,Henderson,NC,Part Time,Female,White,7/09/1992,26,1,Monthly,Fixed Term,Henderson_NC,68,1
+58e7827ad7aff30100ae18a6,3593994,5,Alamance,NC,Part Time,Male,White,11/02/1993,25,1,Monthly,Fixed Term,Alamance_NC,76,1
+58e7b4b5d7aff30100ae18b1,1626212,5,Northampton,NC,Full Time,Male,White,21/12/1990,28,1,Monthly,Fixed Term,Northampton_NC,3,0
+58e3ad26d7aff30100ae1843,3045500,5,Carroll,NH,Full Time,Female,White,30/09/1987,31,2,Monthly,Fixed Term,Carroll_NH,16,0
+58e2a71ad7aff30100ae17f6,2022770,5,Monmouth,NJ,Part Time,Female,White,2/09/1989,29,1,Monthly,Permanent,Monmouth_NJ,37,0
+58e2b412a4f5930100cea761,1743395,5,Burlington,NJ,Part Time,Male,White,24/09/1990,28,1,Monthly,Permanent,Burlington_NJ,98,1
+58e75c5ed7aff30100ae18a0,78080632,5,Bergen,NJ,Full Time,Male,White,6/04/1992,26,1,Monthly,Fixed Term,Bergen_NJ,24,0
+58e781c8a4f5930100cea7fc,1388565,5,Essex,NJ,Full Time,Male,White,11/09/1986,32,2,Monthly,Fixed Term,Essex_NJ,58,1
+58e69fbfd7aff30100ae189d,812880,5,Valencia,NM,Part Time,Female,Black or Black British,30/10/1989,29,1,Monthly,Permanent,Valencia_NM,52,1
+58e29983d7aff30100ae17ed,2204710,5,Schenectady,NY,Full Time,Male,White,19/11/1991,27,1,Monthly,Fixed Term,Schenectady_NY,79,1
+58e36669a4f5930100cea77f,924430,5,Nassau,NY,Part Time,Male,White,24/03/1986,32,2,Monthly,Permanent,Nassau_NY,93,1
+58e3820cd7aff30100ae1834,2330392,5,Tioga,NY,Full Time,Female,White,10/03/1985,33,2,Monthly,Permanent,Tioga_NY,85,1
+58e3d656a4f5930100cea7ab,794439,5,Jefferson,NY,Part Time,Female,White,29/05/1994,24,1,Monthly,Permanent,Jefferson_NY,88,1
+58e4f944d7aff30100ae186f,3074599,5,Genesee,NY,Full Time,Female,White,20/08/1972,46,2,Monthly,Permanent,Genesee_NY,56,1
+58e5b526a4f5930100cea7d6,1376129,5,Delaware,NY,Part Time,Male,White,26/02/1990,28,1,Monthly,Permanent,Delaware_NY,49,0
+58e4fb28d7aff30100ae1870,2226546,5,Logan,OH,Full Time,Male,White,29/06/1991,27,1,Monthly,Permanent,Logan_OH,28,0
+58e7ded1d7aff30100ae18b9,1719618,5,Grady,OK,Part Time,Male,American Ethnicities,27/01/1990,28,1,2-Weekly,Permanent,Grady_OK,3,0
+58e291baa4f5930100cea748,1132338,5,Yamhill,OR,Part Time,Female,White,13/08/1991,27,1,Monthly,Fixed Term,Yamhill_OR,95,1
+58e35125a4f5930100cea774,1212771,5,Jefferson,PA,Part Time,Female,White,25/01/1994,24,1,Monthly,Student (Dual),Jefferson_PA,55,1
+58e3d1d1a4f5930100cea7a9,1410030,5,Chester,PA,Part Time,Female,White,29/11/1995,23,1,Monthly,Permanent,Chester_PA,74,1
+58e40204d7aff30100ae185e,1021773,5,Lycoming,PA,Full Time,Female,White,22/01/1990,28,1,Monthly,Fixed Term,Lycoming_PA,37,0
+58e40322a4f5930100cea7b2,1757908,5,Cambria,PA,Full Time,Female,White,2/07/1984,34,2,Monthly,Temporary,Cambria_PA,61,1
+58e64736d7aff30100ae1891,1036335,5,Westmoreland,PA,Full Time,Female,White,25/03/1992,26,1,Monthly,Fixed Term,Westmoreland_PA,47,0
+58e797b8a4f5930100cea800,1631353,5,Huntingdon,PA,Full Time,Male,White,18/07/1992,26,1,Monthly,Fixed Term,Huntingdon_PA,95,1
+58e361f3d7aff30100ae1821,1299592,5,Greenville,SC,Full Time,Female,White,11/07/1990,28,1,Monthly,Fixed Term,Greenville_SC,58,1
+58e61cc5d7aff30100ae1883,1013115,5,Madison,TN,Part Time,Male,White,29/01/1984,34,2,Monthly,Permanent,Madison_TN,68,1
+58e3c74ed7aff30100ae1851,1418081,5,Bosque,TX,Part Time,Female,White,20/03/1979,39,2,Monthly,Fixed Term,Bosque_TX,36,0
+58e39622a4f5930100cea791,753600,5,Henry,VA,Full Time,Female,White,12/03/1988,30,1,Monthly,Fixed Term,Henry_VA,28,0
+58e64e9cd7aff30100ae1893,2794759,5,Fairfax,VA,Full Time,Male,White,8/10/1981,37,2,Monthly,Fixed Term,Fairfax_VA,11,0
+58e291d3d7aff30100ae17e7,1407341,5,Winnebago,WI,Part Time,Female,White,29/05/1995,23,1,Monthly,Permanent,Winnebago_WI,52,1
+58e3d677d7aff30100ae1856,1112254,5,Portage,WI,Full Time,Male,White,5/11/1993,25,1,Monthly,Fixed Term,Portage_WI,50,0
+58e3decfa4f5930100cea7ae,1842064,5,Waushara,WI,Full Time,Male,White,12/01/1983,35,2,Monthly,Fixed Term,Waushara_WI,76,1
+58e79c2bd7aff30100ae18ac,1669115,5,Sauk,WI,Full Time,Male,White,8/03/1989,29,1,Monthly,Fixed Term,Sauk_WI,48,0
+58e7cf1ea4f5930100cea80e,1254211,6,De Kalb,AL,Full Time,Male,White,4/03/1994,24,1,Monthly,Fixed Term,De Kalb_AL,47,0
+58e3bb97a4f5930100cea7a0,2220983,6,Los Angeles,CA,Part Time,Male,White,5/04/1991,27,1,Monthly,Permanent,Los Angeles_CA,23,0
+58e4c48ca4f5930100cea7bb,1686826,6,Lake,CA,Full Time,Male,Asian or Asian British,19/04/1991,27,1,Monthly,Fixed Term,Lake_CA,94,1
+58e60e7bd7aff30100ae187f,1141651,6,Imperial,CA,Full Time,Female,Black or Black British,14/07/1994,24,1,Monthly,Fixed Term,Imperial_CA,18,0
+58e7d0f2a4f5930100cea810,14084050,6,El Paso,CO,Full Time,Female,White,7/11/1981,37,2,Monthly,Permanent,El Paso_CO,62,1
+58e37fc8d7aff30100ae1831,1283136,6,Hartford,CT,Full Time,Male,White,1/10/1989,29,1,Monthly,Fixed Term,Hartford_CT,68,1
+58e76d82d7aff30100ae18a2,1302601,6,Litchfield,CT,Full Time,Male,White,10/06/1987,31,2,Monthly,Fixed Term,Litchfield_CT,95,1
+58e4e5d8d7aff30100ae186d,1624662,6,Brevard,FL,Full Time,Female,White,18/09/1987,31,2,Monthly,Fixed Term,Brevard_FL,98,1
+58e39143d7aff30100ae1837,991296,6,Coweta,GA,Full Time,Female,Chinese,24/12/1975,43,2,Monthly,Fixed Term,Coweta_GA,76,1
+58e662fcd7aff30100ae1897,1636038,6,Spalding,GA,Part Time,Male,White,14/04/1992,26,1,Monthly,Permanent,Spalding_GA,96,1
+58e684a0a4f5930100cea7f0,2016364,6,Fulton,GA,Part Time,Female,White,29/07/1995,23,1,Monthly,Fixed Term,Fulton_GA,47,0
+58e7caffa4f5930100cea80d,1692425,6,Washington,GA,Full Time,Male,White,1/08/1993,25,1,Monthly,Fixed Term,Washington_GA,44,0
+58e36a26d7aff30100ae1827,1262994,6,Honolulu,HI,Full Time,Female,White,9/12/1972,46,2,Monthly,Fixed Term,Honolulu_HI,2,0
+58e29a84a4f5930100cea750,1042806,6,Johnson,IA,Full Time,Male,White,7/07/1989,29,1,Monthly,Fixed Term,Johnson_IA,36,0
+58e3e3bfd7aff30100ae1858,2316379,6,Hamilton,IA,Full Time,Female,White,1/09/1992,26,1,Monthly,Fixed Term,Hamilton_IA,23,0
+58e2c2fad7aff30100ae180b,1026816,6,Rock Island,IL,Part Time,Male,White,16/01/1995,23,1,Monthly,Fixed Term,Rock Island_IL,54,1
+58e373e7d7aff30100ae182e,976043,6,Jackson,IN,Full Time,Female,Other,19/09/1982,36,2,Monthly,Fixed Term,Jackson_IN,2,0
+58e38e34a4f5930100cea78e,1407529,6,Elkhart,IN,Full Time,Female,White,7/08/1991,27,1,Monthly,Fixed Term,Elkhart_IN,40,0
+58e3cff1a4f5930100cea7a6,7622416,6,Knox,IN,Full Time,Male,White,16/09/1994,24,1,Monthly,Fixed Term,Knox_IN,38,0
+58e4dd24a4f5930100cea7c2,1306703,6,Labette,KS,Part Time,Female,White,25/05/1994,24,1,Monthly,Fixed Term,Labette_KS,23,0
+58e2b0cea4f5930100cea75f,919806,6,Jefferson,KY,Part Time,Female,White,19/08/1994,24,1,Monthly,Fixed Term,Jefferson_KY,56,1
+58e397fca4f5930100cea792,1024581,6,Norfolk,MA,Part Time,Male,White,12/09/1988,30,1,Monthly,Fixed Term,Norfolk_MA,37,0
+58e3bef6d7aff30100ae184d,908805,6,Middlesex,MA,Full Time,Male,White,24/08/1992,26,1,Monthly,Fixed Term,Middlesex_MA,36,0
+58e62959d7aff30100ae1885,1997422,6,Washington,MD,Full Time,Female,White,24/01/1991,27,1,Monthly,Fixed Term,Washington_MD,41,0
+58e297f6d7aff30100ae17eb,856305,6,Lapeer,MI,Full Time,Female,White,16/02/1990,28,1,Monthly,Permanent,Lapeer_MI,95,1
+58e61601a4f5930100cea7d9,1428512,6,Barry,MI,Full Time,Male,White,22/01/1990,28,1,Monthly,Fixed Term,Barry_MI,73,1
+58e6364cd7aff30100ae1888,942504,6,Lee,MS,Full Time,Female,White,28/09/1989,29,1,Monthly,Permanent,Lee_MS,56,1
+58e34f35a4f5930100cea772,1246109,6,Bertie,NC,Part Time,Female,White,14/03/1989,29,1,Monthly,Fixed Term,Bertie_NC,13,0
+58e356e8d7aff30100ae181d,783267,6,Pender,NC,Part Time,Male,White,16/01/1981,37,2,Monthly,Fixed Term,Pender_NC,99,1
+58e3ad54d7aff30100ae1844,919279,6,Henderson,NC,Part Time,Male,White,24/08/1988,30,1,Monthly,Fixed Term,Henderson_NC,68,1
+58e4d831d7aff30100ae186a,1618237,6,Pamlico,NC,Part Time,Male,Black or Black British,22/09/1992,26,1,Monthly,Fixed Term,Pamlico_NC,38,0
+58e76657a4f5930100cea7f8,1809250,6,Henderson,NC,Part Time,Male,White,13/12/1989,29,1,Monthly,Permanent,Henderson_NC,68,1
+58e65348a4f5930100cea7e6,1378973,6,Merrimack,NH,Full Time,Male,White,18/05/1978,40,2,Monthly,Permanent,Merrimack_NH,24,0
+58e344c0d7aff30100ae1816,1895927,6,Bergen,NJ,Full Time,Female,White,2/10/1963,55,2,Monthly,Fixed Term,Bergen_NJ,24,0
+58e4c78da4f5930100cea7bc,1150426,6,Burlington,NJ,Part Time,Female,White,10/06/1958,60,2,Monthly,Fixed Term,Burlington_NJ,98,1
+58e63576d7aff30100ae1887,3974625,6,Bergen,NJ,Part Time,Female,White,27/12/1971,47,2,Monthly,Permanent,Bergen_NJ,24,0
+58e7dfa4a4f5930100cea812,985268,6,Hunterdon,NJ,Part Time,Female,American Ethnicities,17/07/1995,23,1,2-Weekly,Permanent,Hunterdon_NJ,47,0
+58e2967ea4f5930100cea74e,1297680,6,Franklin,NY,Full Time,Female,White,2/09/1983,35,2,Monthly,Permanent,Franklin_NY,90,1
+58e2be47a4f5930100cea767,8232487,6,Oneida,NY,Part Time,Female,Chinese,21/09/1977,41,2,Monthly,Fixed Term,Oneida_NY,72,1
+58e35df6d7aff30100ae181f,1357343,6,Nassau,NY,Full Time,Female,White,2/03/1985,33,2,Monthly,Permanent,Nassau_NY,93,1
+58e29f0dd7aff30100ae17f1,866768,6,Champaign,OH,Full Time,Female,Black or Black British,11/11/1986,32,2,Monthly,Permanent,Champaign_OH,40,0
+58e2b415d7aff30100ae1801,2889771,6,Jefferson,OH,Full Time,Male,White,8/12/1990,28,1,Monthly,Fixed Term,Jefferson_OH,82,1
+58e3d48ed7aff30100ae1855,1341766,6,Delaware,OK,Part Time,Male,White,14/11/1976,42,2,Monthly,Fixed Term,Delaware_OK,16,0
+58e63700d7aff30100ae188a,1253564,6,Choctaw,OK,Part Time,Female,Black or Black British,19/11/1974,44,2,Monthly,Fixed Term,Choctaw_OK,49,0
+58e63d59a4f5930100cea7e2,1358839,6,Rogers,OK,Full Time,Male,White,18/08/1953,65,2,Monthly,Fixed Term,Rogers_OK,44,0
+58e367bba4f5930100cea782,1627597,6,Lycoming,PA,Full Time,Female,White,21/10/1981,37,2,Monthly,Permanent,Lycoming_PA,37,0
+58e36999d7aff30100ae1826,1250675,6,Chester,PA,Full Time,Male,White,17/10/1984,34,2,Monthly,Permanent,Chester_PA,74,1
+58e370cea4f5930100cea785,2641856,6,Fulton,PA,Full Time,Female,White,10/03/1987,31,2,Monthly,Fixed Term,Fulton_PA,85,1
+58e3adffd7aff30100ae1845,1478610,6,Allegheny,PA,Full Time,Male,White,11/01/1981,37,2,Monthly,Permanent,Allegheny_PA,72,1
+58e4ffa4d7aff30100ae1871,2083985,6,Lawrence,PA,Full Time,Female,Mixed,14/08/1987,31,2,Monthly,Permanent,Lawrence_PA,38,0
+58e68ae2d7aff30100ae189c,1135380,6,Lebanon,PA,Full Time,Male,White,14/10/1986,32,2,Monthly,Permanent,Lebanon_PA,15,0
+58e6a9e4a4f5930100cea7f3,1377153,6,Dauphin,PA,Full Time,Female,Asian or Asian British,31/08/1972,46,2,Monthly,Permanent,Dauphin_PA,64,1
+58e6ba93d7aff30100ae189f,726211,6,Butler,PA,Full Time,Female,White,1/02/1977,41,2,Monthly,Permanent,Butler_PA,52,1
+58e7a527a4f5930100cea803,1138298,6,Westmoreland,PA,Full Time,Male,White,11/06/1979,39,2,Monthly,Permanent,Westmoreland_PA,47,0
+58e35330a4f5930100cea775,1304383,6,Kent,RI,Full Time,Female,White,2/09/1985,33,2,Monthly,Fixed Term,Kent_RI,28,0
+58e7a0b3a4f5930100cea802,14096711,6,Bristol,RI,Full Time,Male,White,7/01/1990,28,1,Monthly,Permanent,Bristol_RI,7,0
+58e2951ca4f5930100cea74d,1097680,6,Sumter,SC,Part Time,Female,White,10/05/1981,37,2,Monthly,Fixed Term,Sumter_SC,67,1
+58e2abbdd7aff30100ae17f8,1211453,6,Lincoln,TN,Full Time,Female,Mixed,20/12/1990,28,1,Monthly,Permanent,Lincoln_TN,56,1
+58e292e4a4f5930100cea74a,1160633,6,Ellis,TX,Full Time,Male,White,14/06/1977,41,2,Monthly,Fixed Term,Ellis_TX,1,0
+58e2b475a4f5930100cea762,2027617,6,Travis,TX,Part Time,Female,White,7/02/1979,39,2,Monthly,Fixed Term,Travis_TX,7,0
+58e7d049a4f5930100cea80f,1282939,6,Duchesne,UT,Part Time,Female,White,29/12/1988,30,1,Monthly,Fixed Term,Duchesne_UT,87,1
+58e41666a4f5930100cea7b7,44388796,6,Halifax,VA,Full Time,Male,White,22/07/1980,38,2,Monthly,Fixed Term,Halifax_VA,6,0
+58e2ac2ad7aff30100ae17f9,1323583,6,Orleans,VT,Full Time,Male,White,31/03/1974,44,2,Monthly,Fixed Term,Orleans_VT,99,1
+58e60feca4f5930100cea7d8,947258,6,Clark,WA,Full Time,Male,White,21/06/1973,45,2,Monthly,Temporary,Clark_WA,24,0
+58e7ad7ba4f5930100cea805,1157515,6,Thurston,WA,Full Time,Female,White,25/08/1983,35,2,Monthly,Fixed Term,Thurston_WA,43,0
+58e2cdc0a4f5930100cea76c,1131679,6,Dane,WI,Full Time,Male,White,27/08/1988,30,1,Monthly,Fixed Term,Dane_WI,17,0
+58e2cdd3d7aff30100ae180f,1350309,6,Rock,WI,Full Time,Female,White,27/02/1990,28,1,Monthly,Fixed Term,Rock_WI,13,0
+58e3fe50a4f5930100cea7b0,1246557,6,Wood,WI,Full Time,Male,White,28/01/1983,35,2,Monthly,Permanent,Wood_WI,74,1
+58e3f8ada4f5930100cea7af,1974145,7,Mobile,AL,Full Time,Female,White,12/06/1992,26,1,Monthly,Fixed Term,Mobile_AL,83,1
+58e37705a4f5930100cea788,5590994,7,Montgomery,AR,Full Time,Male,White,17/10/1991,27,1,Monthly,Permanent,Montgomery_AR,66,1
+58e6b78ed7aff30100ae189e,1380024,7,Boone,AR,Full Time,Female,White,12/08/1993,25,1,Monthly,Fixed Term,Boone_AR,74,1
+58e3ad61a4f5930100cea79a,2503955,7,San Mateo,CA,Full Time,Female,Not Divulged,23/01/1987,31,2,Monthly,Permanent,San Mateo_CA,86,1
+58e3aff0a4f5930100cea79c,1728028,7,Lake,CA,Full Time,Female,White,2/12/1990,28,1,Monthly,Fixed Term,Lake_CA,94,1
+58e3c12ad7aff30100ae184e,8921274,7,Shasta,CA,Full Time,Female,White,21/01/1998,20,1,Monthly,Permanent,Shasta_CA,96,1
+58e367add7aff30100ae1823,1276054,7,Levy,FL,Full Time,Male,White,14/11/1986,32,2,Monthly,Fixed Term,Levy_FL,59,1
+58e4f0d2a4f5930100cea7c6,1509254,7,Broward,FL,Full Time,Female,Not Divulged,12/03/1987,31,2,Monthly,Permanent,Broward_FL,53,1
+58e2b3c6d7aff30100ae1800,1421377,7,Brooks,GA,Full Time,Female,White,6/11/1990,28,1,Monthly,Permanent,Brooks_GA,84,1
+58e3512bd7aff30100ae181a,879675,7,Decatur,GA,Full Time,Female,White,9/11/1979,39,2,Monthly,Fixed Term,Decatur_GA,85,1
+58e2a373a4f5930100cea756,1122595,7,Dubuque,IA,Full Time,Female,White,24/10/1972,46,2,Monthly,Permanent,Dubuque_IA,37,0
+58e391eed7aff30100ae1838,6793572,7,Woodbury,IA,Full Time,Female,White,18/10/1991,27,1,Monthly,Fixed Term,Woodbury_IA,77,1
+58e3dc44a4f5930100cea7ad,1185685,7,Fayette,IA,Full Time,Female,White,22/01/1993,25,1,Monthly,Fixed Term,Fayette_IA,61,1
+58e523ada4f5930100cea7cf,1266423,7,Pocahontas,IA,Full Time,Female,White,31/08/1987,31,2,Monthly,Fixed Term,Pocahontas_IA,94,1
+58e623f5d7aff30100ae1884,1246417,7,Pottawattamie,IA,Full Time,Female,White,25/04/1970,48,2,Monthly,Agency Temp,Pottawattamie_IA,78,1
+58e7b600a4f5930100cea808,1524214,7,Monona,IA,Full Time,Female,White,23/12/1985,33,2,Monthly,Permanent,Monona_IA,26,0
+58e7c2e9a4f5930100cea80c,1483703,7,Marion,IA,Full Time,Male,White,15/10/1989,29,1,Monthly,Fixed Term,Marion_IA,96,1
+58e2c20aa4f5930100cea769,7034371,7,Edgar,IL,Full Time,Male,Not Divulged,19/04/1984,34,2,Monthly,Permanent,Edgar_IL,63,1
+58e36ee2d7aff30100ae182a,3367627,7,Iroquois,IL,Full Time,Female,Mixed,12/11/1987,31,2,Monthly,Permanent,Iroquois_IL,11,0
+58e506eed7aff30100ae1875,1975903,7,Bond,IL,Full Time,Female,White,27/01/1992,26,1,Monthly,Permanent,Bond_IL,15,0
+58e7a5d0d7aff30100ae18af,3461767,7,Menard,IL,Full Time,Female,Chinese,9/11/1988,30,1,Monthly,Permanent,Menard_IL,98,1
+58e39fd1d7aff30100ae183f,985831,7,Gibson,IN,Full Time,Male,White,17/03/1965,53,2,Monthly,Fixed Term,Gibson_IN,42,0
+58e3fdebd7aff30100ae185b,1275420,7,Clark,IN,Full Time,Male,Mixed,13/05/1970,48,2,Monthly,Fixed Term,Clark_IN,0,0
+58e50a25d7aff30100ae1876,2001228,7,Lake,IN,Full Time,Male,White,8/01/1975,43,2,Monthly,Fixed Term,Lake_IN,53,1
+58e60e8aa4f5930100cea7d7,1496136,7,Hamilton,IN,Full Time,Female,White,25/08/1988,30,1,Monthly,Fixed Term,Hamilton_IN,65,1
+58e651f8d7aff30100ae1894,2539820,7,Hamilton,IN,Full Time,Male,White,6/07/1974,44,2,Monthly,Fixed Term,Hamilton_IN,65,1
+58e7838fa4f5930100cea7fd,1362077,7,Crawford,IN,Full Time,Female,White,15/09/1989,29,1,Monthly,Fixed Term,Crawford_IN,89,1
+58e2b904a4f5930100cea765,2190643,7,Jefferson,LA,Full Time,Male,White,31/10/1982,36,2,Monthly,Temporary,Jefferson_LA,20,0
+58e667f8a4f5930100cea7eb,1151576,7,Saint John the Baptist,LA,Full Time,Male,White,7/10/1957,61,2,Monthly,Temporary,Saint John the Baptist_LA,27,0
+58e5210fa4f5930100cea7ce,1066964,7,Middlesex,MA,Full Time,Female,White,30/06/1967,51,2,Monthly,Fixed Term,Middlesex_MA,36,0
+58e2c65bd7aff30100ae180c,9952848,7,Anne Arundel,MD,Part Time,Female,White,20/08/1997,21,1,Monthly,Fixed Term,Anne Arundel_MD,71,1
+58e4df4fd7aff30100ae186c,1308841,7,Kittson,MN,Full Time,Male,White,19/10/1974,44,2,Monthly,Fixed Term,Kittson_MN,22,0
+58e2b6f7d7aff30100ae1803,2107580,7,Randolph,MO,Full Time,Male,Black or Black British,5/12/1996,22,1,Monthly,Permanent,Randolph_MO,38,0
+58e7de8bd7aff30100ae18b8,3687556,7,Pike,MS,Part Time,Male,American Ethnicities,25/12/1998,20,1,2-Weekly,Permanent,Pike_MS,22,0
+58e38ecbd7aff30100ae1836,1707634,7,Sanders,MT,Full Time,Female,White,6/09/1989,29,1,Monthly,Permanent,Sanders_MT,51,1
+58e35969a4f5930100cea778,1743936,7,Robeson,NC,Full Time,Female,White,14/05/1980,38,2,Monthly,Permanent,Robeson_NC,78,1
+58e37537d7aff30100ae182f,1100032,7,Craven,NC,Full Time,Male,White,29/06/1976,42,2,Monthly,Permanent,Craven_NC,28,0
+58e3a11ed7aff30100ae1840,1472254,7,Catawba,NC,Full Time,Female,White,22/05/1998,20,1,Monthly,Permanent,Catawba_NC,6,0
+58e34e70a4f5930100cea771,818142,7,Seward,NE,Full Time,Male,White,22/06/1978,40,2,Monthly,Permanent,Seward_NE,16,0
+58e375b1a4f5930100cea787,1677614,7,Garden,NE,Full Time,Female,White,22/06/1976,42,2,Monthly,Fixed Term,Garden_NE,85,1
+58e4cc12a4f5930100cea7bd,2133626,7,Dawson,NE,Full Time,Female,White,20/01/1981,37,2,Monthly,Permanent,Dawson_NE,90,1
+58e3715cd7aff30100ae182b,1033337,7,Rockingham,NH,Full Time,Male,White,21/02/1978,40,2,Monthly,Permanent,Rockingham_NH,89,1
+58e378b2a4f5930100cea789,941481,7,Sussex,NJ,Full Time,Female,White,2/01/1986,32,2,Monthly,Fixed Term,Sussex_NJ,85,1
+58e2b796d7aff30100ae1804,2851402,7,Madison,NY,Full Time,Female,White,19/02/1992,26,1,Monthly,Fixed Term,Madison_NY,24,0
+58e365c2a4f5930100cea77e,1211128,7,Cayuga,NY,Full Time,Female,White,13/02/1985,33,2,Monthly,Fixed Term,Cayuga_NY,72,1
+58e3698ba4f5930100cea784,970447,7,Suffolk,NY,Full Time,Female,White,5/07/1993,25,1,Monthly,Fixed Term,Suffolk_NY,74,1
+58e3a94ca4f5930100cea799,1838342,7,Oneida,NY,Full Time,Male,White,13/07/1993,25,1,Monthly,Temporary,Oneida_NY,72,1
+58e3b1d6a4f5930100cea79d,2219193,7,Essex,NY,Full Time,Male,White,6/10/1977,41,2,Monthly,Fixed Term,Essex_NY,83,1
+58e3c076a4f5930100cea7a2,2289578,7,Onondaga,NY,Full Time,Male,White,23/01/1975,43,2,Monthly,Permanent,Onondaga_NY,56,1
+58e507b0a4f5930100cea7c8,1408347,7,Nassau,NY,Full Time,Female,White,12/10/1974,44,2,Monthly,Fixed Term,Nassau_NY,93,1
+58e64e55d7aff30100ae1892,1813436,7,Saint Lawrence,NY,Full Time,Male,White,31/08/1979,39,2,Monthly,Fixed Term,Saint Lawrence_NY,57,1
+58e7a17bd7aff30100ae18ae,1426959,7,Otsego,NY,Full Time,Female,White,7/04/1986,32,2,Monthly,Fixed Term,Otsego_NY,8,0
+58e2a922a4f5930100cea759,1343672,7,Gallia,OH,Full Time,Female,White,23/03/1993,25,1,Monthly,Permanent,Gallia_OH,81,1
+58e4d68fa4f5930100cea7bf,1168574,7,Van Wert,OH,Full Time,Female,White,15/07/1987,31,2,Monthly,Fixed Term,Van Wert_OH,72,1
+58e7b5eed7aff30100ae18b2,8902048,7,Stark,OH,Full Time,Female,White,2/04/1988,30,1,Monthly,Fixed Term,Stark_OH,61,1
+58e7d29fd7aff30100ae18b6,824966,7,Knox,OH,Full Time,Female,White,24/08/1992,26,1,Monthly,Permanent,Knox_OH,79,1
+58e355ffa4f5930100cea776,1720546,7,Kiowa,OK,Full Time,Female,White,14/05/1992,26,1,Monthly,Fixed Term,Kiowa_OK,82,1
+58e39366d7aff30100ae183a,2130459,7,Oklahoma,OK,Full Time,Female,White,24/12/1981,37,2,Monthly,Fixed Term,Oklahoma_OK,23,0
+58e3a3e7a4f5930100cea795,1393922,7,Mayes,OK,Full Time,Female,White,17/07/1991,27,1,Monthly,Permanent,Mayes_OK,62,1
+58e36747a4f5930100cea780,1942354,7,Douglas,OR,Full Time,Female,White,16/05/1991,27,1,Monthly,Fixed Term,Douglas_OR,86,1
+58e2ac84d7aff30100ae17fa,1694427,7,Jefferson,PA,Full Time,Female,White,29/03/1992,26,1,Monthly,Fixed Term,Jefferson_PA,55,1
+58e2ad8fa4f5930100cea75d,771111,7,Westmoreland,PA,Full Time,Female,White,10/05/1974,44,2,Monthly,Fixed Term,Westmoreland_PA,47,0
+58e3b346d7aff30100ae184a,3691776,7,Monroe,PA,Full Time,Female,White,24/05/1994,24,1,Monthly,Fixed Term,Monroe_PA,27,0
+58e3b8bdd7aff30100ae184b,1349354,7,Snyder,PA,Full Time,Female,White,19/05/1984,34,2,Monthly,Fixed Term,Snyder_PA,77,1
+58e3d094a4f5930100cea7a7,1182016,7,Luzerne,PA,Full Time,Female,White,15/07/1987,31,2,Monthly,Fixed Term,Luzerne_PA,89,1
+58e4c361a4f5930100cea7ba,1581810,7,Butler,PA,Full Time,Female,Not Divulged,4/04/1993,25,1,Monthly,Fixed Term,Butler_PA,52,1
+58e52e16a4f5930100cea7d2,1337244,7,Chester,PA,Full Time,Female,White,16/05/1990,28,1,Monthly,Fixed Term,Chester_PA,74,1
+58e34e72d7aff30100ae1819,1307576,7,Sumter,SC,Full Time,Female,White,4/07/1993,25,1,Monthly,Fixed Term,Sumter_SC,67,1
+58e38c68a4f5930100cea78d,2436365,7,Lawrence,TN,Full Time,Female,White,14/12/1985,33,2,Monthly,Fixed Term,Lawrence_TN,75,1
+58e39668d7aff30100ae183c,882103,7,Dickson,TN,Full Time,Female,White,6/11/1982,36,2,Monthly,Permanent,Dickson_TN,4,0
+58e61c8da4f5930100cea7db,1335862,7,Polk,TN,Full Time,Female,White,18/06/1994,24,1,Monthly,Permanent,Polk_TN,50,0
+58e35a30d7aff30100ae181e,1785303,7,Pecos,TX,Full Time,Female,White,10/03/1987,31,2,Monthly,Fixed Term,Pecos_TX,26,0
+58e36510a4f5930100cea77d,1357186,7,Galveston,TX,Full Time,Male,White,31/01/1963,55,2,Monthly,Fixed Term,Galveston_TX,6,0
+58e675dbd7aff30100ae1898,1448050,7,Harris,TX,Full Time,Male,White,21/03/1980,38,2,Monthly,Fixed Term,Harris_TX,65,1
+58e7b32ca4f5930100cea807,1799230,7,Weber,UT,Full Time,Female,White,25/09/1988,30,1,Monthly,Temporary,Weber_UT,82,1
+58e3cafad7aff30100ae1853,29092788,7,Chesterfield,VA,Full Time,Female,Not Divulged,25/01/1989,29,1,Monthly,Fixed Term,Chesterfield_VA,57,1
+58e367f6d7aff30100ae1824,815051,7,Bennington,VT,Full Time,Male,Not Divulged,18/02/1993,25,1,Monthly,Fixed Term,Bennington_VT,40,0
+58e5280ea4f5930100cea7d1,1025305,7,Washington,VT,Full Time,Female,White,27/11/1993,25,1,Monthly,Fixed Term,Washington_VT,11,0
+58e2973fd7aff30100ae17e9,1020853,7,King,WA,Full Time,Female,White,8/07/1989,29,1,Monthly,Permanent,King_WA,96,1
+58e2d752d7aff30100ae1810,1458698,7,Douglas,WA,Full Time,Female,White,26/01/1989,29,1,Monthly,Permanent,Douglas_WA,21,0
+58e29781d7aff30100ae17ea,1374665,7,Buffalo,WI,Full Time,Male,White,23/01/1972,46,2,Monthly,Permanent,Buffalo_WI,77,1
+58e29e6aa4f5930100cea753,1556095,7,Green,WI,Full Time,Male,White,22/09/1983,35,2,Monthly,Fixed Term,Green_WI,13,0
+58e2a512d7aff30100ae17f5,1016417,7,Clark,WI,Full Time,Female,White,26/01/1989,29,1,Monthly,Fixed Term,Clark_WI,51,1
+58e41075a4f5930100cea7b6,1236596,7,Grant,WI,Full Time,Female,White,14/12/1987,31,2,Monthly,Fixed Term,Grant_WI,19,0
+58e7bbf0a4f5930100cea80a,2054972,7,Calumet,WI,Full Time,Female,White,5/12/1966,52,2,Monthly,Fixed Term,Calumet_WI,86,1
+58e3b003d7aff30100ae1847,1396256,8,Crittenden,AR,Full Time,Male,White,24/09/1984,34,2,Monthly,Permanent,Crittenden_AR,70,1
+58e29f33a4f5930100cea754,1305734,8,San Luis Obispo,CA,Full Time,Male,White,23/12/1984,34,2,Monthly,Permanent,San Luis Obispo_CA,20,0
+58e29f56d7aff30100ae17f2,1124963,8,Los Angeles,CA,Full Time,Male,White,3/11/1980,38,2,Monthly,Permanent,Los Angeles_CA,23,0
+58e642a6d7aff30100ae1890,1347420,8,Sacramento,CA,Part Time,Female,White,23/09/1982,36,2,Monthly,Permanent,Sacramento_CA,34,0
+58e36cbdd7aff30100ae1829,954901,8,Hartford,CT,Full Time,Male,White,29/01/1990,28,1,Monthly,Permanent,Hartford_CT,68,1
+58e36788a4f5930100cea781,1624887,8,Miami-Dade,FL,Full Time,Female,White,3/11/1990,28,1,Monthly,Permanent,Miami-Dade_FL,19,0
+58e3c8acd7aff30100ae1852,963739,8,Broward,FL,Full Time,Male,White,10/10/1982,36,2,Monthly,Fixed Term,Broward_FL,53,1
+58e3cbb6a4f5930100cea7a5,2302904,8,Hernando,FL,Full Time,Male,White,26/05/1984,34,2,Monthly,Fixed Term,Hernando_FL,58,1
+58e52c88d7aff30100ae1879,2839460,8,Broward,FL,Full Time,Female,White,18/12/1993,25,1,Monthly,Fixed Term,Broward_FL,53,1
+58e65cc1d7aff30100ae1895,2643335,8,Orange,FL,Full Time,Female,White,14/12/1987,31,2,Monthly,Fixed Term,Orange_FL,94,1
+58e7dd31a4f5930100cea811,2653637,8,Saint Lucie,FL,Part Time,Female,White,6/12/1996,22,1,2-Weekly,Permanent,Saint Lucie_FL,62,1
+58e61281d7aff30100ae1880,1035537,8,Union,GA,Full Time,Female,White,29/01/1994,24,1,Monthly,Fixed Term,Union_GA,36,0
+58e79166a4f5930100cea7ff,992264,8,Clayton,GA,Full Time,Male,White,22/11/1990,28,1,Monthly,Fixed Term,Clayton_GA,9,0
+58e3a3a9a4f5930100cea794,1681355,8,Clinton,IA,Full Time,Male,White,24/10/1996,22,1,Monthly,Permanent,Clinton_IA,38,0
+58e7a6b3d7aff30100ae18b0,1026128,8,Tama,IA,Full Time,Male,White,18/11/1982,36,2,Monthly,Fixed Term,Tama_IA,22,0
+58e2b59cd7aff30100ae1802,5721140,8,Union,IL,Full Time,Female,White,20/09/1989,29,1,Monthly,Fixed Term,Union_IL,14,0
+58e35af3a4f5930100cea779,1379812,8,Lake,IN,Full Time,Male,White,21/01/1976,42,2,Monthly,Permanent,Lake_IN,53,1
+58e4cfa7a4f5930100cea7be,5365153,8,Somerset,ME,Full Time,Female,White,16/11/1991,27,1,Monthly,Permanent,Somerset_ME,44,0
+58e4b86ed7aff30100ae1864,1107944,8,Crawford,MI,Full Time,Male,White,7/07/1988,30,1,Monthly,Permanent,Crawford_MI,92,1
+58e67f01a4f5930100cea7ed,1292347,8,Van Buren,MI,Full Time,Female,White,4/08/1991,27,1,Monthly,Permanent,Van Buren_MI,10,0
+58e2a47bd7aff30100ae17f4,1440856,8,Blue Earth,MN,Full Time,Male,Not Divulged,22/06/1986,32,2,Monthly,Permanent,Blue Earth_MN,80,1
+58e3692ed7aff30100ae1825,1127297,8,Lyon,MN,Full Time,Male,Not Divulged,20/08/1968,50,2,Monthly,Fixed Term,Lyon_MN,10,0
+58e3b4f0a4f5930100cea79e,1172225,8,Randolph,NC,Full Time,Female,White,4/02/1994,24,1,Monthly,Permanent,Randolph_NC,78,1
+58e355f1d7aff30100ae181b,902030,8,Middlesex,NJ,Full Time,Female,White,7/05/1995,23,1,Monthly,Fixed Term,Middlesex_NJ,90,1
+58e6254aa4f5930100cea7dc,1085201,8,Warren,NJ,Full Time,Female,White,19/10/1992,26,1,Monthly,Permanent,Warren_NJ,65,1
+58e364d5a4f5930100cea77c,1169947,8,Warren,NY,Full Time,Female,White,3/08/1991,27,1,Monthly,Fixed Term,Warren_NY,98,1
+58e39349d7aff30100ae1839,1016877,8,Nassau,NY,Full Time,Male,White,12/10/1977,41,2,Monthly,Fixed Term,Nassau_NY,93,1
+58e3d0c0a4f5930100cea7a8,1195094,8,Suffolk,NY,Full Time,Female,White,31/07/1978,40,2,Monthly,Fixed Term,Suffolk_NY,74,1
+58e40164a4f5930100cea7b1,1332831,8,Cayuga,NY,Full Time,Female,White,13/08/1996,22,1,Monthly,Fixed Term,Cayuga_NY,72,1
+58e38732a4f5930100cea78c,3963192,8,Putnam,OH,Full Time,Female,White,7/10/1966,52,2,Monthly,Fixed Term,Putnam_OH,89,1
+58e3917aa4f5930100cea790,1499717,8,Scioto,OH,Full Time,Male,White,15/07/1957,61,2,Monthly,Fixed Term,Scioto_OH,69,1
+58e291d0a4f5930100cea749,1089725,8,Erie,PA,Full Time,Female,White,3/02/1985,33,2,Monthly,Fixed Term,Erie_PA,100,1
+58e34e2cd7aff30100ae1818,1117908,8,Beaver,PA,Full Time,Female,White,22/12/1989,29,1,Monthly,Fixed Term,Beaver_PA,31,0
+58e3afbba4f5930100cea79b,1130025,8,Delaware,PA,Full Time,Female,White,20/08/1990,28,1,Monthly,Fixed Term,Delaware_PA,100,1
+58e4165fd7aff30100ae1862,1333284,8,Carbon,PA,Full Time,Female,White,7/03/1975,43,2,Monthly,Fixed Term,Carbon_PA,46,0
+58e63a95d7aff30100ae188b,1719507,8,Hale,TX,Full Time,Female,White,17/03/1988,30,1,Monthly,Fixed Term,Hale_TX,20,0
+58e76f34d7aff30100ae18a3,2055397,8,Tooele,UT,Full Time,Male,White,4/01/1984,34,2,Monthly,Permanent,Tooele_UT,25,0
+58e2af5cd7aff30100ae17fb,1326500,8,Albemarle,VA,Full Time,Male,White,4/01/1979,39,2,Monthly,Permanent,Albemarle_VA,65,1
+58e6267da4f5930100cea7dd,1132166,8,Jefferson,WA,Full Time,Female,White,27/07/1989,29,1,Monthly,Permanent,Jefferson_WA,33,0
+58e63e4fd7aff30100ae188d,1044507,8,Jefferson,WA,Full Time,Male,White,24/09/1981,37,2,Monthly,Permanent,Jefferson_WA,33,0
+58e3b8c9a4f5930100cea79f,2263923,8,Sheboygan,WI,Part Time,Female,Not Divulged,22/04/1996,22,1,Monthly,Permanent,Sheboygan_WI,64,1
+58e29498d7aff30100ae17e8,991601,8,Pocahontas,WV,Full Time,Male,White,1/04/1987,31,2,Monthly,Permanent,Pocahontas_WV,71,1
+58e36108a4f5930100cea77b,3461178,9,Sussex,DE,Part Time,Male,Not Divulged,27/01/1994,24,1,Monthly,Permanent,Sussex_DE,99,1
+58e78c2ea4f5930100cea7fe,1333199,9,Jackson,FL,Full Time,Female,Not Divulged,27/11/1983,35,2,Monthly,Permanent,Jackson_FL,8,0
+58e35e83a4f5930100cea77a,1201097,9,Telfair,GA,Part Time,Female,Not Divulged,12/12/1985,33,2,Monthly,Permanent,Telfair_GA,10,0
+58e29374a4f5930100cea74b,1004553,9,Winnebago,IL,Part Time,Male,Not Divulged,16/11/1989,29,1,Monthly,Permanent,Winnebago_IL,81,1
+58e2c291d7aff30100ae180a,1574280,9,Saginaw,MI,Part Time,Male,Not Divulged,4/08/1992,26,1,Monthly,Permanent,Saginaw_MI,8,0
+58e3af58d7aff30100ae1846,2297553,9,Ottawa,MI,Full Time,Female,Not Divulged,25/01/1987,31,2,Monthly,Permanent,Ottawa_MI,30,0
+58e63ac3a4f5930100cea7e1,1620890,9,Wayne,MI,Full Time,Male,Not Divulged,7/08/1994,24,1,Monthly,Permanent,Wayne_MI,70,1
+58e2b7bfd7aff30100ae1805,1336933,9,Chenango,NY,Full Time,Female,Not Divulged,14/07/1995,23,1,Monthly,Permanent,Chenango_NY,87,1
+58e4f6e0a4f5930100cea7c7,938512,9,Indiana,PA,Part Time,Male,Not Divulged,11/07/1992,26,1,Monthly,Permanent,Indiana_PA,15,0
+58e7753ad7aff30100ae18a4,1632223,9,Clearfield,PA,Full Time,Male,Not Divulged,7/08/1987,31,2,Monthly,Permanent,Clearfield_PA,12,0
+58e4cbddd7aff30100ae1867,2245989,9,Henrico,VA,Full Time,Male,White,20/09/1986,32,2,Monthly,Fixed Term,Henrico_VA,42,0
+58e2b09ba4f5930100cea75e,917807,10,Covington,AL,Full Time,Female,White,17/07/1991,27,1,Monthly,Permanent,Covington_AL,3,0
+58e4006ad7aff30100ae185d,1492516,10,Chatham,GA,Part Time,Female,White,10/05/1974,44,2,Monthly,Permanent,Chatham_GA,60,1
+58e415a1d7aff30100ae1861,1736679,10,Linn,IA,Full Time,Female,White,31/12/1986,32,2,Monthly,Permanent,Linn_IA,92,1
+58e3a671a4f5930100cea796,800083,10,Ohio,KY,Full Time,Male,White,2/09/1969,49,2,Monthly,Permanent,Ohio_KY,87,1
+58e2bc27d7aff30100ae1807,1219365,10,Iberia,LA,Full Time,Female,White,19/05/1984,34,2,Monthly,Permanent,Iberia_LA,23,0
+58e37efad7aff30100ae1830,2159357,10,Yellow Medicine,MN,Full Time,Female,White,17/09/1982,36,2,Monthly,Permanent,Yellow Medicine_MN,23,0
+58e631c6a4f5930100cea7df,917695,10,Duplin,NC,Full Time,Male,White,26/08/1982,36,2,Monthly,Permanent,Duplin_NC,14,0
+58e2ca0bd7aff30100ae180d,1920153,10,Cape May,NJ,Full Time,Female,White,10/03/1978,40,2,Monthly,Permanent,Cape May_NJ,58,1
+58e797b3d7aff30100ae18aa,1200323,10,Howard,TX,Full Time,Female,White,28/04/1991,27,1,Monthly,Permanent,Howard_TX,57,1
+58e4d6ccd7aff30100ae1869,1007160,10,Whatcom,WA,Full Time,Female,White,6/04/1980,38,2,Monthly,Permanent,Whatcom_WA,30,0
+58e7df1bd7aff30100ae18ba,,1,Little River,AR,Part Time,Female,American Ethnicities,2/03/1988,30,1,2-Weekly,Permanent,Little River_AR,10,0
+58e7e03bd7aff30100ae18bb,,1,Broward,FL,Part Time,Male,American Ethnicities,27/09/1995,23,1,2-Weekly,Permanent,Broward_FL,53,1
+58e8cfe5d7aff30100ae18c5,,1,Jefferson,NY,Part Time,Female,American Ethnicities,11/11/1996,22,1,2-Weekly,Permanent,Jefferson_NY,88,1
+58e92430d7aff30100ae18d7,,1,Franklin,NY,Full Time,Female,White,12/02/1987,31,2,Monthly,Permanent,Franklin_NY,90,1
+58ea0f49d7aff30100ae18db,,1,Monroe,OH,Full Time,Male,Asian or Asian British,13/03/1991,27,1,Monthly,Permanent,Monroe_OH,4,0
+58ea48c3a4f5930100cea82a,,1,Montgomery,NY,Full Time,Male,White,4/12/1989,29,1,Monthly,Permanent,Montgomery_NY,52,1
+58eb8d9ba4f5930100cea83d,,1,Lancaster,PA,Full Time,Female,White,4/07/1980,38,2,Monthly,Permanent,Lancaster_PA,100,1
+58ef7a2fa4f5930100cea856,,1,Breckinridge,KY,Full Time,Male,White,8/01/1982,36,2,Monthly,Permanent,Breckinridge_KY,64,1
+58ef8172d7aff30100ae1903,,1,Botetourt,VA,Full Time,Male,White,9/11/1983,35,2,Monthly,Permanent,Botetourt_VA,73,1
+58f0fefbd7aff30100ae191b,,1,Northampton,PA,Full Time,Male,White,24/04/1987,31,2,Monthly,Permanent,Northampton_PA,18,0
+58f10426d7aff30100ae191e,,1,Putnam,OH,Full Time,Male,White,7/11/1964,54,2,Monthly,Permanent,Putnam_OH,89,1
+58e89fabd7aff30100ae18bf,,2,Klamath,OR,Part Time,Male,American Ethnicities,9/06/1991,27,1,2-Weekly,Permanent,Klamath_OR,87,1
+58e8d1bbd7aff30100ae18c6,,2,Hancock,ME,Part Time,Female,American Ethnicities,20/07/1979,39,2,2-Weekly,Permanent,Hancock_ME,17,0
+58e8e910d7aff30100ae18ca,,2,Champaign,OH,Part Time,Male,American Ethnicities,13/05/1984,34,2,2-Weekly,Permanent,Champaign_OH,40,0
+58e9101dd7aff30100ae18d0,,2,Essex,VA,Full Time,Female,American Ethnicities,28/01/1991,27,1,2-Weekly,Fixed Term,Essex_VA,46,0
+58e916e9d7aff30100ae18d2,,2,Hancock,MS,Full Time,Male,American Ethnicities,25/02/1982,36,2,2-Weekly,Permanent,Hancock_MS,77,1
+58e92396d7aff30100ae18d5,,2,Woodbury,IA,Full Time,Male,White,28/05/1986,32,2,Monthly,Permanent,Woodbury_IA,77,1
+58ea1770d7aff30100ae18dd,,2,Grant,NE,Full Time,Male,White,13/04/1995,23,1,Monthly,Permanent,Grant_NE,58,1
+58ea2a7da4f5930100cea827,,2,Columbia,OR,Full Time,Female,White,16/06/1993,25,1,Monthly,Permanent,Columbia_OR,15,0
+58eb7ceda4f5930100cea836,,2,Clearfield,PA,Full Time,Female,White,28/10/1986,32,2,Monthly,Permanent,Clearfield_PA,12,0
+58eb81e1a4f5930100cea83a,,2,Union,OR,Full Time,Male,White,27/06/1989,29,1,Monthly,Permanent,Union_OR,37,0
+58eb9d8ca4f5930100cea842,,2,Dutchess,NY,Full Time,Female,Chinese,13/02/1986,32,2,Monthly,Permanent,Dutchess_NY,17,0
+58ef4f01a4f5930100cea852,,2,Dinwiddie,VA,Full Time,Male,White,20/08/1983,35,2,Monthly,Permanent,Dinwiddie_VA,62,1
+58ef5c96a4f5930100cea853,,2,Marin,CA,Full Time,Male,Black or Black British,22/01/1980,38,2,Monthly,Permanent,Marin_CA,16,0
+58ef8a86d7aff30100ae1906,,2,Midland,TX,Full Time,Male,White,11/06/1979,39,2,Monthly,Permanent,Midland_TX,98,1
+58efb8e6d7aff30100ae190c,,2,York,NE,Full Time,Female,White,9/10/1989,29,1,Monthly,Permanent,York_NE,75,1
+58efbf3ba4f5930100cea866,,2,Orange,NY,Full Time,Male,White,8/09/1978,40,2,Monthly,Permanent,Orange_NY,10,0
+58f0a302d7aff30100ae1912,,2,Hancock,ME,Full Time,Female,White,8/05/1970,48,2,Monthly,Permanent,Hancock_ME,17,0
+58f0cb1ed7aff30100ae1917,,2,Dona Ana,NM,Full Time,Male,White,29/12/1986,32,2,Monthly,Permanent,Dona Ana_NM,98,1
+58f0d392d7aff30100ae1918,,2,Anne Arundel,MD,Full Time,Female,Chinese,7/06/1977,41,2,Monthly,Permanent,Anne Arundel_MD,71,1
+58f109d4d7aff30100ae191f,,2,Bucks,PA,Full Time,Male,White,2/01/1986,32,2,Monthly,Permanent,Bucks_PA,87,1
+58f23b6da4f5930100cea885,,2,Chesterfield,SC,Full Time,Male,Chinese,1/10/1982,36,2,Monthly,Permanent,Chesterfield_SC,13,0
+58f24849d7aff30100ae192e,,2,Spokane,WA,Full Time,Female,White,12/09/1969,49,2,Monthly,Permanent,Spokane_WA,51,1
+58e808e7d7aff30100ae18bc,,3,Harris,TX,Part Time,Male,American Ethnicities,3/11/1992,26,1,2-Weekly,Permanent,Harris_TX,65,1
+58e8a942a4f5930100cea814,,3,Dallas,TX,Part Time,Female,American Ethnicities,3/07/1994,24,1,Monthly,Permanent,Dallas_TX,23,0
+58e8c527a4f5930100cea816,,3,Johnson,MO,Full Time,Female,American Ethnicities,8/05/1981,37,2,2-Weekly,Permanent,Johnson_MO,6,0
+58e90da9a4f5930100cea81d,,3,Putnam,NY,Part Time,Female,American Ethnicities,2/11/1988,30,1,2-Weekly,Fixed Term,Putnam_NY,11,0
+58e91e56d7aff30100ae18d4,,3,Crawford,PA,Full Time,Male,American Ethnicities,1/08/1983,35,2,2-Weekly,Permanent,Crawford_PA,53,1
+58ea45f3a4f5930100cea828,,3,Smith,TX,Full Time,Male,White,16/07/1975,43,2,Monthly,Permanent,Smith_TX,23,0
+58eb608cd7aff30100ae18e8,,3,Mercer,PA,Full Time,Male,White,8/09/1981,37,2,Monthly,Permanent,Mercer_PA,43,0
+58eb7191a4f5930100cea833,,3,Merced,CA,Full Time,Male,White,9/09/1951,67,2,Monthly,Permanent,Merced_CA,61,1
+58eb7ecca4f5930100cea838,,3,Windsor,VT,Full Time,Female,White,7/02/1991,27,1,Monthly,Permanent,Windsor_VT,60,1
+58eb94c1d7aff30100ae18ef,,3,Butler,PA,Full Time,Male,White,29/06/1980,38,2,Monthly,Permanent,Butler_PA,52,1
+58eb9abfd7aff30100ae18f0,,3,Redwood,MN,Full Time,Male,White,24/12/1970,48,2,Monthly,Permanent,Redwood_MN,51,1
+58ebac68d7aff30100ae18f4,,3,Lake,MT,Full Time,Female,White,5/11/1989,29,1,Monthly,Permanent,Lake_MT,84,1
+58ebb21ad7aff30100ae18f5,,3,Beaver,PA,Full Time,Male,White,17/07/1990,28,1,Monthly,Permanent,Beaver_PA,31,0
+58ebc401a4f5930100cea848,,3,Washington,ME,Full Time,Female,White,8/10/1980,38,2,Monthly,Permanent,Washington_ME,10,0
+58ebd01aa4f5930100cea84b,,3,Montgomery,MD,Full Time,Male,White,11/12/1970,48,2,Monthly,Permanent,Montgomery_MD,27,0
+58ebf61aa4f5930100cea84d,,3,Baraga,MI,Full Time,Male,White,1/05/1983,35,2,Monthly,Permanent,Baraga_MI,13,0
+58ef4f00d7aff30100ae1900,,3,Delta,CO,Full Time,Male,White,8/01/1982,36,2,Monthly,Permanent,Delta_CO,51,1
+58ef6a6ba4f5930100cea854,,3,Ulster,NY,Full Time,Female,White,12/10/1981,37,2,Monthly,Permanent,Ulster_NY,11,0
+58ef8de8a4f5930100cea85c,,3,Brown,MN,Full Time,Male,White,30/10/1980,38,2,Monthly,Permanent,Brown_MN,15,0
+58efc462d7aff30100ae190e,,3,Muhlenberg,KY,Full Time,Female,Chinese,20/06/1983,35,2,Monthly,Permanent,Muhlenberg_KY,60,1
+58efc6bdd7aff30100ae190f,,3,Essex,MA,Full Time,Male,White,10/01/1984,34,2,Monthly,Permanent,Essex_MA,93,1
+58efcba7a4f5930100cea867,,3,Westchester,NY,Full Time,Female,Chinese,16/01/1985,33,2,Monthly,Permanent,Westchester_NY,49,0
+58efe1c9a4f5930100cea869,,3,Huntingdon,PA,Full Time,Male,White,24/07/1985,33,2,Monthly,Fixed Term,Huntingdon_PA,95,1
+58efe57aa4f5930100cea86a,,3,Windham,VT,Full Time,Male,White,22/04/1987,31,2,Monthly,Permanent,Windham_VT,6,0
+58f022ddd7aff30100ae1911,,3,Eau Claire,WI,Full Time,Male,White,15/10/1978,40,2,Monthly,Permanent,Eau Claire_WI,21,0
+58f0e472a4f5930100cea875,,3,Chester,PA,Full Time,Male,Chinese,31/08/1969,49,2,Monthly,Permanent,Chester_PA,74,1
+58f0fb7ca4f5930100cea878,,3,Wyoming,PA,Full Time,Male,White,6/05/1986,32,2,Monthly,Fixed Term,Wyoming_PA,29,0
+58f13af2a4f5930100cea87d,,3,Madison,NE,Full Time,Male,White,2/11/1957,61,2,Monthly,Permanent,Madison_NE,38,0
+58f13b4ad7aff30100ae1924,,3,Aroostook,ME,Full Time,Male,White,24/03/1991,27,1,Monthly,Fixed Term,Aroostook_ME,3,0
+58f1df38a4f5930100cea87f,,3,Milam,TX,Full Time,Female,White,30/10/1978,40,2,Monthly,Fixed Term,Milam_TX,52,1
+58f1f679a4f5930100cea881,,3,McKean,PA,Full Time,Female,White,4/07/1986,32,2,Monthly,Fixed Term,McKean_PA,99,1
+58f233aed7aff30100ae192a,,3,Dutchess,NY,Full Time,Male,White,10/10/1982,36,2,Monthly,Permanent,Dutchess_NY,17,0
+58e7dd77d7aff30100ae18b7,,4,Dawson,NE,Part Time,Male,American Ethnicities,23/05/1993,25,1,Monthly,Permanent,Dawson_NE,90,1
+58e901c1d7aff30100ae18cc,,4,Williams,ND,Part Time,Male,American Ethnicities,10/07/1983,35,2,2-Weekly,Permanent,Williams_ND,80,1
+58e974a9d7aff30100ae18d8,,4,Fulton,IL,Full Time,Female,White,3/07/1992,26,1,Monthly,Permanent,Fulton_IL,53,1
+58ea4e7fd7aff30100ae18e0,,4,Marion,OR,Full Time,Male,White,10/02/1985,33,2,Monthly,Permanent,Marion_OR,3,0
+58ea5126d7aff30100ae18e1,,4,San Bernardino,CA,Full Time,Male,White,18/10/1980,38,2,Monthly,Permanent,San Bernardino_CA,52,1
+58eb78cea4f5930100cea834,,4,Lake,OH,Full Time,Male,White,13/09/1978,40,2,Monthly,Permanent,Lake_OH,35,0
+58eb9027a4f5930100cea83e,,4,Kaufman,TX,Full Time,Male,White,3/09/1981,37,2,Monthly,Permanent,Kaufman_TX,6,0
+58ebad5da4f5930100cea845,,4,Armstrong,PA,Full Time,Male,White,28/05/1988,30,1,Monthly,Permanent,Armstrong_PA,6,0
+58ebc1c8d7aff30100ae18f6,,4,Fulton,AR,Full Time,Male,White,3/02/1963,55,2,Monthly,Permanent,Fulton_AR,4,0
+58ef440fd7aff30100ae18fe,,4,Talbot,MD,Full Time,Male,White,5/09/1975,43,2,Monthly,Permanent,Talbot_MD,84,1
+58ef794fa4f5930100cea855,,4,Sawyer,WI,Full Time,Male,White,5/07/1963,55,2,Monthly,Permanent,Sawyer_WI,78,1
+58ef7aa0a4f5930100cea857,,4,Riverside,CA,Full Time,Male,White,4/03/1962,56,2,Monthly,Permanent,Riverside_CA,36,0
+58ef8d12d7aff30100ae1909,,4,Campbell,KY,Full Time,Female,White,15/04/1985,33,2,Monthly,Permanent,Campbell_KY,30,0
+58f0ab97a4f5930100cea86d,,4,Muhlenberg,KY,Full Time,Female,White,8/05/1962,56,2,Monthly,Permanent,Muhlenberg_KY,60,1
+58f0ebaad7aff30100ae1919,,4,Johnson,KS,Full Time,Female,White,14/02/1989,29,1,Monthly,Permanent,Johnson_KS,51,1
+58f0f01aa4f5930100cea877,,4,Somerset,PA,Full Time,Male,Chinese,27/11/1968,50,2,Monthly,Permanent,Somerset_PA,53,1
+58f11577d7aff30100ae1922,,4,Bandera,TX,Full Time,Female,White,3/09/1990,28,1,Monthly,Permanent,Bandera_TX,31,0
+58e7ded1d7aff30100ae18b9,,5,Grady,OK,Part Time,Male,American Ethnicities,27/01/1990,28,1,2-Weekly,Permanent,Grady_OK,3,0
+58e88fb1d7aff30100ae18be,,5,Juniata,PA,Part Time,Female,American Ethnicities,19/08/1991,27,1,2-Weekly,Permanent,Juniata_PA,5,0
+58e8e554d7aff30100ae18c7,,5,Erie,PA,Part Time,Female,American Ethnicities,28/11/1995,23,1,2-Weekly,Permanent,Erie_PA,100,1
+58e90375a4f5930100cea81c,,5,Forsyth,GA,Part Time,Male,American Ethnicities,16/08/1994,24,1,2-Weekly,Fixed Term,Forsyth_GA,44,0
+58e90c43d7aff30100ae18ce,,5,Kittitas,WA,Part Time,Male,American Ethnicities,12/06/1996,22,1,2-Weekly,Permanent,Kittitas_WA,78,1
+58e90d7fd7aff30100ae18cf,,5,Wayne,PA,Part Time,Male,American Ethnicities,17/04/1982,36,2,2-Weekly,Permanent,Wayne_PA,68,1
+58e91247a4f5930100cea81e,,5,Atlantic,NJ,Full Time,Female,American Ethnicities,12/06/1989,29,1,2-Weekly,Fixed Term,Atlantic_NJ,89,1
+58e913edd7aff30100ae18d1,,5,Madison,KY,Full Time,Male,American Ethnicities,11/11/1981,37,2,2-Weekly,Fixed Term,Madison_KY,79,1
+58e9147aa4f5930100cea81f,,5,Parker,TX,Full Time,Male,American Ethnicities,14/11/1976,42,2,2-Weekly,Permanent,Parker_TX,69,1
+58ea3d1ad7aff30100ae18de,,5,Merced,CA,Full Time,Male,White,26/04/1988,30,1,Monthly,Permanent,Merced_CA,61,1
+58eb5a8dd7aff30100ae18e6,,5,Currituck,NC,Full Time,Female,White,4/09/1980,38,2,Monthly,Permanent,Currituck_NC,52,1
+58eb6debd7aff30100ae18e9,,5,Mineral,MT,Full Time,Male,Chinese,24/06/1983,35,2,Monthly,Permanent,Mineral_MT,36,0
+58eb6e52d7aff30100ae18ea,,5,Dekalb,GA,Full Time,Male,White,14/12/1984,34,2,Monthly,Permanent,Dekalb_GA,41,0
+58eb7ef0a4f5930100cea839,,5,Monroe,NY,Full Time,Female,White,18/01/1984,34,2,Monthly,Permanent,Monroe_NY,39,0
+58eb9854a4f5930100cea841,,5,Lavaca,TX,Full Time,Male,Black or Black British,2/10/1965,53,2,Monthly,Permanent,Lavaca_TX,10,0
+58eba328d7aff30100ae18f2,,5,Malheur,OR,Full Time,Male,White,17/09/1992,26,1,Monthly,Permanent,Malheur_OR,96,1
+58ebca35a4f5930100cea84a,,5,Franklin,NY,Full Time,Female,White,16/03/1984,34,2,Monthly,Permanent,Franklin_NY,90,1
+58ebca83d7aff30100ae18f7,,5,Yakima,WA,Full Time,Female,White,23/04/1965,53,2,Monthly,Permanent,Yakima_WA,78,1
+58ecdd33d7aff30100ae18f9,,5,Saint Louis,MO,Part Time,Female,White,7/03/1984,34,2,Monthly,Permanent,Saint Louis_MO,58,1
+58edec2ed7aff30100ae18fb,,5,Scott,VA,Full Time,Male,Chinese,31/03/1990,28,1,Monthly,Permanent,Scott_VA,51,1
+58ee1941a4f5930100cea850,,5,Nassau,NY,Full Time,Female,White,16/11/1984,34,2,Monthly,Permanent,Nassau_NY,93,1
+58ef54d2d7aff30100ae1902,,5,Windham,VT,Full Time,Male,White,28/10/1990,28,1,Monthly,Permanent,Windham_VT,6,0
+58ef7f85a4f5930100cea858,,5,Fayette,OH,Full Time,Male,White,8/08/1987,31,2,Monthly,Permanent,Fayette_OH,66,1
+58ef807da4f5930100cea859,,5,Columbia,GA,Full Time,Male,White,19/03/1988,30,1,Monthly,Permanent,Columbia_GA,82,1
+58ef92d7a4f5930100cea85d,,5,Clarendon,SC,Full Time,Male,White,9/01/1986,32,2,Monthly,Permanent,Clarendon_SC,34,0
+58ef9659a4f5930100cea85e,,5,Columbia,PA,Full Time,Female,White,2/09/1989,29,1,Monthly,Permanent,Columbia_PA,17,0
+58efa0f8a4f5930100cea860,,5,Woodbury,IA,Full Time,Male,White,5/08/1983,35,2,Monthly,Permanent,Woodbury_IA,77,1
+58efbb73a4f5930100cea865,,5,Northumberland,PA,Full Time,Male,White,9/06/1990,28,1,Monthly,Permanent,Northumberland_PA,36,0
+58f0a46ad7aff30100ae1914,,5,Allamakee,IA,Full Time,Male,White,6/03/1965,53,2,Monthly,Permanent,Allamakee_IA,94,1
+58f0aa62a4f5930100cea86c,,5,Yadkin,NC,Part Time,Female,White,29/01/1986,32,2,Monthly,Permanent,Yadkin_NC,56,1
+58f0b6efa4f5930100cea86f,,5,Lehigh,PA,Full Time,Male,White,3/10/1972,46,2,Monthly,Permanent,Lehigh_PA,57,1
+58f0c8e4a4f5930100cea871,,5,Sandusky,OH,Full Time,Female,White,20/04/1989,29,1,Monthly,Fixed Term,Sandusky_OH,16,0
+58f14a04a4f5930100cea87e,,5,York,PA,Full Time,Female,White,17/05/1987,31,2,Monthly,Permanent,York_PA,44,0
+58f255c9d7aff30100ae192f,,5,Lawrence,TN,Full Time,Male,White,3/06/1983,35,2,Monthly,Permanent,Lawrence_TN,75,1
+58f4bb4dd7aff30100ae1934,,5,Dooly,GA,Full Time,Male,White,27/06/1966,52,2,Monthly,Permanent,Dooly_GA,10,0
+58e7dfa4a4f5930100cea812,,6,Hunterdon,NJ,Part Time,Female,American Ethnicities,17/07/1995,23,1,2-Weekly,Permanent,Hunterdon_NJ,47,0
+58e8a3a1d7aff30100ae18c0,,6,Kershaw,SC,Part Time,Female,American Ethnicities,1/10/1989,29,1,2-Weekly,Fixed Term,Kershaw_SC,97,1
+58e8aafcd7aff30100ae18c1,,6,Burlington,NJ,Part Time,Female,American Ethnicities,29/03/1990,28,1,Monthly,Fixed Term,Burlington_NJ,98,1
+58e8e892a4f5930100cea81a,,6,Monroe,NY,Part Time,Male,American Ethnicities,1/07/1985,33,2,2-Weekly,Permanent,Monroe_NY,39,0
+58e90bedd7aff30100ae18cd,,6,Clinton,IL,Part Time,Male,American Ethnicities,13/11/1991,27,1,2-Weekly,Permanent,Clinton_IL,87,1
+58e9fd6dd7aff30100ae18d9,,6,McHenry,IL,Full Time,Male,White,31/01/1981,37,2,Monthly,Permanent,McHenry_IL,86,1
+58ea02fad7aff30100ae18da,,6,Rhea,TN,Full Time,Male,White,28/08/1992,26,1,Monthly,Permanent,Rhea_TN,57,1
+58ea1231d7aff30100ae18dc,,6,Davis,UT,Full Time,Male,White,14/05/1992,26,1,Monthly,Permanent,Davis_UT,28,0
+58ea4dc0a4f5930100cea82b,,6,Ellis,TX,Full Time,Male,White,1/01/1976,42,2,Monthly,Permanent,Ellis_TX,1,0
+58ea58b9d7aff30100ae18e2,,6,Herkimer,NY,Full Time,Male,White,29/09/1958,60,2,Monthly,Permanent,Herkimer_NY,74,1
+58ea8c58d7aff30100ae18e3,,6,Washington,PA,Full Time,Male,White,15/08/1967,51,2,Monthly,Permanent,Washington_PA,12,0
+58eb3abaa4f5930100cea82f,,6,Winnebago,WI,Full Time,Male,White,18/11/1976,42,2,Monthly,Permanent,Winnebago_WI,52,1
+58eb5571a4f5930100cea831,,6,Bergen,NJ,Full Time,Male,White,3/02/1986,32,2,Monthly,Permanent,Bergen_NJ,24,0
+58eb7966d7aff30100ae18eb,,6,Franklin,TN,Full Time,Female,White,5/10/1982,36,2,Monthly,Permanent,Franklin_TN,84,1
+58eb7a30a4f5930100cea835,,6,Washington,MD,Full Time,Male,White,23/02/1987,31,2,Monthly,Permanent,Washington_MD,41,0
+58eb7a7ed7aff30100ae18ec,,6,Seminole,OK,Full Time,Male,White,19/08/1984,34,2,Monthly,Permanent,Seminole_OK,63,1
+58eb87b1d7aff30100ae18ee,,6,Miami-Dade,FL,Full Time,Male,White,3/12/1976,42,2,Monthly,Permanent,Miami-Dade_FL,19,0
+58eb925da4f5930100cea83f,,6,Madison,IL,Full Time,Female,White,18/08/1985,33,2,Monthly,Permanent,Madison_IL,5,0
+58eba7f6a4f5930100cea844,,6,Baltimore,MD,Full Time,Male,White,31/08/1984,34,2,Monthly,Permanent,Baltimore_MD,59,1
+58ebac0ed7aff30100ae18f3,,6,Pinellas,FL,Full Time,Male,White,13/06/1986,32,2,Monthly,Permanent,Pinellas_FL,56,1
+58ef8682d7aff30100ae1904,,6,Ramsey,MN,Full Time,Male,White,20/07/1987,31,2,Monthly,Permanent,Ramsey_MN,96,1
+58eff5c7d7aff30100ae1910,,6,Montgomery,IA,Full Time,Male,Black or Black British,23/12/1977,41,2,Monthly,Permanent,Montgomery_IA,40,0
+58f0ad06a4f5930100cea86e,,6,Williamson,IL,Full Time,Female,White,6/02/1982,36,2,Monthly,Permanent,Williamson_IL,52,1
+58f0bc6da4f5930100cea870,,6,Jefferson,NY,Full Time,Male,White,18/08/1992,26,1,Monthly,Permanent,Jefferson_NY,88,1
+58f0c953a4f5930100cea872,,6,Wayne,PA,Full Time,Male,White,19/08/1991,27,1,Monthly,Fixed Term,Wayne_PA,68,1
+58f0e672a4f5930100cea876,,6,Macoupin,IL,Full Time,Male,White,3/12/1991,27,1,Monthly,Permanent,Macoupin_IL,87,1
+58f0f78fd7aff30100ae191a,,6,Marshall,WV,Full Time,Male,Chinese,2/10/1973,45,2,Monthly,Permanent,Marshall_WV,96,1
+58f10276d7aff30100ae191d,,6,Jackson,NC,Full Time,Female,White,9/01/1985,33,2,Monthly,Fixed Term,Jackson_NC,31,0
+58f12132a4f5930100cea87c,,6,Dekalb,GA,Full Time,Male,White,2/08/1995,23,1,Monthly,Permanent,Dekalb_GA,41,0
+58f145c6d7aff30100ae1925,,6,Armstrong,PA,Full Time,Male,White,2/01/1986,32,2,Monthly,Permanent,Armstrong_PA,6,0
+58f20a99a4f5930100cea883,,6,El Dorado,CA,Full Time,Male,Chinese,12/01/1992,26,1,Monthly,Permanent,El Dorado_CA,2,0
+58f24f0ba4f5930100cea886,,6,Aroostook,ME,Full Time,Male,White,12/12/1985,33,2,Monthly,Permanent,Aroostook_ME,3,0
+58f28e54d7aff30100ae1930,,6,Lewis,NY,Full Time,Male,White,5/03/1951,67,2,Monthly,Permanent,Lewis_NY,65,1
+58e7de8bd7aff30100ae18b8,,7,Pike,MS,Part Time,Male,American Ethnicities,25/12/1998,20,1,2-Weekly,Permanent,Pike_MS,22,0
+58e8b3fcd7aff30100ae18c2,,7,Cortland,NY,Part Time,Male,American Ethnicities,15/04/1987,31,2,2-Weekly,Permanent,Cortland_NY,36,0
+58e8b6ddd7aff30100ae18c3,,7,Somerset,PA,Full Time,Female,American Ethnicities,24/08/1987,31,2,2-Weekly,Permanent,Somerset_PA,53,1
+58e8c1a1d7aff30100ae18c4,,7,Cambria,PA,Part Time,Male,American Ethnicities,3/08/1994,24,1,2-Weekly,Permanent,Cambria_PA,61,1
+58e8d9f7a4f5930100cea817,,7,Hawaii,HI,Part Time,Female,American Ethnicities,7/01/1994,24,1,2-Weekly,Permanent,Hawaii_HI,90,1
+58e8e6ecd7aff30100ae18c8,,7,Queen Annes,MD,Part Time,Male,American Ethnicities,17/09/1992,26,1,2-Weekly,Permanent,Queen Annes_MD,83,1
+58e8e89ed7aff30100ae18c9,,7,Dyer,TN,Full Time,Male,American Ethnicities,13/09/1980,38,2,2-Weekly,Permanent,Dyer_TN,37,0
+58e91b25d7aff30100ae18d3,,7,Berks,PA,Full Time,Female,American Ethnicities,2/04/1981,37,2,2-Weekly,Permanent,Berks_PA,79,1
+58e91ca2a4f5930100cea820,,7,Cattaraugus,NY,Full Time,Female,American Ethnicities,4/03/1979,39,2,2-Weekly,Permanent,Cattaraugus_NY,61,1
+58e91f27a4f5930100cea821,,7,Kenton,KY,Full Time,Male,American Ethnicities,24/06/1985,33,2,2-Weekly,Permanent,Kenton_KY,62,1
+58e923bbd7aff30100ae18d6,,7,Fresno,CA,Full Time,Female,Chinese,22/06/1985,33,2,Monthly,Permanent,Fresno_CA,13,0
+58ea0eaaa4f5930100cea823,,7,McLean,IL,Full Time,Female,White,9/10/1986,32,2,Monthly,Permanent,McLean_IL,30,0
+58ea19f5a4f5930100cea824,,7,Polk,FL,Full Time,Male,White,21/10/1981,37,2,Monthly,Permanent,Polk_FL,73,1
+58ea213aa4f5930100cea825,,7,Chautauqua,NY,Full Time,Female,White,12/11/1986,32,2,Monthly,Permanent,Chautauqua_NY,1,0
+58ea28b7a4f5930100cea826,,7,Union,NC,Full Time,Female,Mixed,19/01/1991,27,1,Monthly,Permanent,Union_NC,77,1
+58ea47efa4f5930100cea829,,7,Union,OR,Full Time,Female,White,21/06/1984,34,2,Monthly,Permanent,Union_OR,37,0
+58eaa1eaa4f5930100cea82d,,7,Miami-Dade,FL,Full Time,Male,White,15/08/1987,31,2,Monthly,Permanent,Miami-Dade_FL,19,0
+58eb5ecfd7aff30100ae18e7,,7,Hopkins,TX,Full Time,Male,Chinese,17/07/1984,34,2,Monthly,Permanent,Hopkins_TX,85,1
+58eb879ca4f5930100cea83b,,7,Iron,WI,Full Time,Female,White,1/02/1986,32,2,Monthly,Permanent,Iron_WI,28,0
+58eb8c07a4f5930100cea83c,,7,Chaffee,CO,Full Time,Female,White,28/01/1989,29,1,Monthly,Permanent,Chaffee_CO,88,1
+58ebaedba4f5930100cea846,,7,Wicomico,MD,Full Time,Male,White,29/03/1976,42,2,Monthly,Permanent,Wicomico_MD,12,0
+58ebca05a4f5930100cea849,,7,Robeson,NC,Full Time,Male,White,24/04/1989,29,1,Monthly,Permanent,Robeson_NC,78,1
+58ebfdc4d7aff30100ae18f8,,7,Franklin,VA,Full Time,Male,White,14/12/1965,53,2,Monthly,Permanent,Franklin_VA,18,0
+58ecb2dba4f5930100cea84f,,7,Sequoyah,OK,Full Time,Male,White,29/11/1985,33,2,Monthly,Permanent,Sequoyah_OK,41,0
+58ef835ba4f5930100cea85a,,7,McLean,IL,Full Time,Female,White,26/02/1985,33,2,Monthly,Permanent,McLean_IL,30,0
+58ef8af6d7aff30100ae1907,,7,Coffee,AL,Full Time,Male,White,24/02/1987,31,2,Monthly,Permanent,Coffee_AL,38,0
+58ef8c09a4f5930100cea85b,,7,Iredell,NC,Full Time,Male,White,6/04/1989,29,1,Monthly,Permanent,Iredell_NC,54,1
+58ef9aeaa4f5930100cea85f,,7,Wood,WI,Full Time,Male,White,19/07/1987,31,2,Monthly,Permanent,Wood_WI,74,1
+58efd982a4f5930100cea868,,7,Heard,GA,Full Time,Female,White,3/05/1979,39,2,Monthly,Fixed Term,Heard_GA,91,1
+58f0a344d7aff30100ae1913,,7,Prince Edward,VA,Full Time,Male,White,26/06/1991,27,1,Monthly,Fixed Term,Prince Edward_VA,23,0
+58f0aadfd7aff30100ae1915,,7,Macomb,MI,Full Time,Female,White,20/07/1986,32,2,Monthly,Permanent,Macomb_MI,97,1
+58f0d4d4a4f5930100cea874,,7,Muskingum,OH,Full Time,Male,White,5/01/1970,48,2,Monthly,Permanent,Muskingum_OH,77,1
+58f0ffb5d7aff30100ae191c,,7,Hamilton,OH,Full Time,Female,White,18/09/1985,33,2,Monthly,Fixed Term,Hamilton_OH,86,1
+58f157e2d7aff30100ae1926,,7,Suffolk,NY,Full Time,Male,White,9/02/1972,46,2,Monthly,Fixed Term,Suffolk_NY,74,1
+58f20a98d7aff30100ae1927,,7,Polk,IA,Full Time,Male,Black or Black British,6/04/1980,38,2,Monthly,Permanent,Polk_IA,75,1
+58f23b14d7aff30100ae192c,,7,Morgan,IN,Full Time,Male,White,6/07/1961,57,2,Monthly,Permanent,Morgan_IN,52,1
+58f23f9ed7aff30100ae192d,,7,York,PA,Full Time,Male,White,1/07/1964,54,2,Monthly,Permanent,York_PA,44,0
+58f3723ad7aff30100ae1932,,7,Washington,PA,Full Time,Male,White,27/12/1991,27,1,Monthly,Permanent,Washington_PA,12,0
+58f4cd67a4f5930100cea888,,7,Accomack,VA,Full Time,Male,White,1/07/1964,54,2,Monthly,Permanent,Accomack_VA,53,1
+58e7dd31a4f5930100cea811,,8,Saint Lucie,FL,Part Time,Female,White,6/12/1996,22,1,2-Weekly,Permanent,Saint Lucie_FL,62,1
+58e8e035a4f5930100cea818,,8,Hamilton,TN,Full Time,Male,American Ethnicities,22/12/1992,26,1,2-Weekly,Fixed Term,Hamilton_TN,71,1
+58e8e916a4f5930100cea81b,,8,Dakota,MN,Part Time,Male,American Ethnicities,17/04/1990,28,1,2-Weekly,Permanent,Dakota_MN,66,1
+58e8ea23d7aff30100ae18cb,,8,Coosa,AL,Part Time,Male,American Ethnicities,26/10/1992,26,1,2-Weekly,Fixed Term,Coosa_AL,51,1
+58eaa5a9a4f5930100cea82e,,8,Levy,FL,Full Time,Male,White,31/03/1989,29,1,Monthly,Permanent,Levy_FL,59,1
+58eb51a5a4f5930100cea830,,8,Richland,OH,Full Time,Male,White,1/06/1986,32,2,Monthly,Permanent,Richland_OH,36,0
+58eb6e62a4f5930100cea832,,8,Wise,VA,Full Time,Male,White,15/02/1983,35,2,Monthly,Permanent,Wise_VA,14,0
+58eb7e2ea4f5930100cea837,,8,Worcester,MA,Full Time,Female,White,10/09/1985,33,2,Monthly,Permanent,Worcester_MA,60,1
+58eb80acd7aff30100ae18ed,,8,Muscatine,IA,Full Time,Male,White,18/08/1987,31,2,Monthly,Permanent,Muscatine_IA,5,0
+58eb9f44d7aff30100ae18f1,,8,Orangeburg,SC,Full Time,Male,White,12/10/1987,31,2,Monthly,Permanent,Orangeburg_SC,38,0
+58ebb218a4f5930100cea847,,8,Dane,WI,Full Time,Male,Chinese,17/07/1984,34,2,Monthly,Permanent,Dane_WI,17,0
+58ef45dba4f5930100cea851,,8,Waldo,ME,Full Time,Female,White,13/08/1988,30,1,Monthly,Permanent,Waldo_ME,82,1
+58ef45f9d7aff30100ae18ff,,8,Kennebec,ME,Full Time,Female,White,15/09/1987,31,2,Monthly,Permanent,Kennebec_ME,26,0
+58ef5327d7aff30100ae1901,,8,Saint Louis,MO,Full Time,Male,Black or Black British,25/09/1970,48,2,Monthly,Permanent,Saint Louis_MO,58,1
+58ef8822d7aff30100ae1905,,8,Clark,AR,Full Time,Male,White,13/01/1984,34,2,Monthly,Permanent,Clark_AR,49,0
+58ef8b6cd7aff30100ae1908,,8,Delaware,PA,Full Time,Male,White,8/06/1983,35,2,Monthly,Permanent,Delaware_PA,100,1
+58ef943bd7aff30100ae190a,,8,Kandiyohi,MN,Full Time,Male,Black or Black British,22/08/1987,31,2,Monthly,Permanent,Kandiyohi_MN,71,1
+58efac32a4f5930100cea862,,8,Somerset,PA,Full Time,Male,Black or Black British,1/03/1963,55,2,Monthly,Fixed Term,Somerset_PA,53,1
+58efae0fa4f5930100cea863,,8,Washington,PA,Full Time,Male,White,22/10/1987,31,2,Monthly,Permanent,Washington_PA,12,0
+58f09c3da4f5930100cea86b,,8,Macon,MO,Full Time,Male,White,16/05/1962,56,2,Monthly,Permanent,Macon_MO,72,1
+58f0c335d7aff30100ae1916,,8,Bradford,PA,Full Time,Male,White,11/09/1963,55,2,Monthly,Permanent,Bradford_PA,52,1
+58f10b8fa4f5930100cea87b,,8,Macoupin,IL,Full Time,Male,White,18/03/1964,54,2,Monthly,Permanent,Macoupin_IL,87,1
+58f1115cd7aff30100ae1921,,8,Isle of Wight,VA,Full Time,Male,White,15/05/1988,30,1,Monthly,Permanent,Isle of Wight_VA,70,1
+58f11718d7aff30100ae1923,,8,Dubois,IN,Full Time,Male,White,24/12/1955,63,2,Monthly,Permanent,Dubois_IN,97,1
+58f1f1dfa4f5930100cea880,,8,Hanover,VA,Full Time,Male,White,7/01/1965,53,2,Monthly,Fixed Term,Hanover_VA,67,1
+58f1fc78a4f5930100cea882,,8,Portage,OH,Full Time,Female,White,5/05/1961,57,2,Monthly,Permanent,Portage_OH,56,1
+58f2244dd7aff30100ae1929,,8,Essex,NY,Full Time,Male,White,18/01/1990,28,1,Monthly,Permanent,Essex_NY,83,1
+58f231aaa4f5930100cea884,,8,Lincoln,MO,Full Time,Male,White,24/11/1987,31,2,Monthly,Fixed Term,Lincoln_MO,43,0
+58f24fc7a4f5930100cea887,,8,Chambers,AL,Full Time,Female,White,6/04/1987,31,2,Monthly,Permanent,Chambers_AL,69,1
+58eb932ba4f5930100cea840,,9,Dolores,CO,Full Time,Male,White,19/11/1958,60,2,Monthly,Permanent,Dolores_CO,93,1
+58efa186a4f5930100cea861,,9,Humboldt,NV,Full Time,Male,White,2/08/1984,34,2,Monthly,Permanent,Humboldt_NV,69,1
+58efb6c3a4f5930100cea864,,9,Marion,OR,Full Time,Male,Asian or Asian British,1/08/1987,31,2,Monthly,Permanent,Marion_OR,3,0
+58f10b67a4f5930100cea87a,,9,Dallas,IA,Full Time,Female,White,13/10/1989,29,1,Monthly,Permanent,Dallas_IA,15,0
+58f10e6fd7aff30100ae1920,,9,Echols,GA,Full Time,Male,White,6/05/1981,37,2,Monthly,Permanent,Echols_GA,15,0
+58f23750d7aff30100ae192b,,9,Kent,MI,Full Time,Male,White,9/06/1989,29,1,Monthly,Permanent,Kent_MI,41,0
+58e8c0b3a4f5930100cea815,,10,Allegheny,PA,Part Time,Male,American Ethnicities,24/10/1995,23,1,2-Weekly,Permanent,Allegheny_PA,72,1
+58e8e1cea4f5930100cea819,,10,Dawes,NE,Full Time,Female,American Ethnicities,20/09/1991,27,1,2-Weekly,Permanent,Dawes_NE,49,0
+58eba2f8a4f5930100cea843,,10,Madison,IL,Full Time,Male,White,6/12/1984,34,2,Monthly,Permanent,Madison_IL,5,0
+58ebe307a4f5930100cea84c,,10,Colusa,CA,Full Time,Male,White,15/06/1979,39,2,Monthly,Permanent,Colusa_CA,3,0
+58efa436d7aff30100ae190b,,10,Ashe,NC,Full Time,Male,White,27/08/1976,42,2,Monthly,Permanent,Ashe_NC,28,0
+58f0d0fca4f5930100cea873,,10,Oxford,ME,Full Time,Female,White,14/09/1989,29,1,Monthly,Permanent,Oxford_ME,22,0
+58f105a0a4f5930100cea879,,10,Simpson,KY,Full Time,Female,White,4/12/1992,26,1,Monthly,Fixed Term,Simpson_KY,63,1
+58f21768d7aff30100ae1928,,10,Pickaway,OH,Full Time,Male,Chinese,10/12/1972,46,2,Monthly,Permanent,Pickaway_OH,92,1
