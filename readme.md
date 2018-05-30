@@ -1,4 +1,4 @@
-This code wassubmitted for a Data Science Challenge
+This code was submitted for a Data Science Challenge
 <br />
 <br />
 About Dataset:
