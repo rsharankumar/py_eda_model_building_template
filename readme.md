@@ -1,3 +1,6 @@
+Author: Sharan Kumar Ravindran
+<br />
+<br />
 This code was submitted for a Data Science Challenge
 <br />
 <br />
